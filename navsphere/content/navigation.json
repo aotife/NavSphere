@@ -977,7 +977,7 @@
           "title": "Docker Hub",
           "href": "https://dh.chjina.com/",
           "description": "Docker Hub 代理",
-          "icon": "/assets/favicon_1758112056242.ico",
+          "icon": "https://api.xinac.net/icon/?url=https://dh.chjina.com/",
           "enabled": true
         },
         {
