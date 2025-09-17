@@ -963,6 +963,14 @@
           "description": "欢迎来到 RSSHub",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=rsshub.chjina.com",
           "enabled": true
+        },
+        {
+          "id": "1758112007482",
+          "title": "GitHub 代理文件加速",
+          "href": "https://gh.chjina.com/",
+          "description": "GitHub 代理",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=gh.chjina.com",
+          "enabled": true
         }
       ],
       "subCategories": []
