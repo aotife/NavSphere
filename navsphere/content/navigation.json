@@ -134,6 +134,14 @@
               "description": "",
               "icon": "/assets/favicon_1758110011483.png",
               "enabled": true
+            },
+            {
+              "id": "1758110136861",
+              "title": "chjina导航 - 一个分享页",
+              "href": "https://home.chjina.com/",
+              "description": "",
+              "icon": "/assets/favicon_1758110144575.ico",
+              "enabled": true
             }
           ]
         },
