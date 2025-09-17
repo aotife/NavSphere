@@ -961,7 +961,7 @@
           "title": "RSSHub",
           "href": "https://rsshub.chjina.com/",
           "description": "欢迎来到 RSSHub",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rsshub.chjina.com",
+          "icon": "https://api.xinac.net/icon/?url=https://rsshub.chjina.com",
           "enabled": true
         },
         {
