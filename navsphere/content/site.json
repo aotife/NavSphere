@@ -6,7 +6,7 @@
   },
   "appearance": {
     "logo": "/assets/images/alogo.png",
-    "favicon": "/assets/images/favicon.png",
+    "favicon": "https://typore-img.oss-cn-beijing.aliyuncs.com/Typecho/favicon.ico",
     "theme": "system"
   },
   "navigation": {
