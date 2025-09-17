@@ -931,7 +931,16 @@
       "icon": "Heart",
       "description": "站长开通的服务",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1758111737368",
+          "title": "ntp.chjina.com",
+          "href": "https://chjina.com/ntp/",
+          "description": "NTP时间服务器",
+          "icon": "/assets/favicon_1758111749877.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
