@@ -1003,6 +1003,14 @@
           "description": "随机生成密码",
           "icon": "/assets/favicon_1758112546163.ico",
           "enabled": true
+        },
+        {
+          "id": "1758112593723",
+          "title": "Telegraph-Image|免费图床",
+          "href": "https://tg-img.chjina.com/",
+          "description": "免费图床，基于Telegraph的图片上传工具",
+          "icon": "/assets/favicon_1758112595988.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
