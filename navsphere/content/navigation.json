@@ -971,6 +971,14 @@
           "description": "GitHub 代理",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=gh.chjina.com",
           "enabled": true
+        },
+        {
+          "id": "1758112053018",
+          "title": "Docker Hub",
+          "href": "https://dh.chjina.com/",
+          "description": "Docker Hub 代理",
+          "icon": "/assets/favicon_1758112056242.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
