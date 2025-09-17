@@ -995,6 +995,14 @@
           "description": "个人知识库文档",
           "icon": "/assets/favicon_1758112133839.png",
           "enabled": true
+        },
+        {
+          "id": "1758112543931",
+          "title": "随机密码生成器",
+          "href": "https://sjmm.chjina.com/",
+          "description": "随机生成密码",
+          "icon": "/assets/favicon_1758112546163.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
