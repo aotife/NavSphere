@@ -947,6 +947,14 @@
           "description": "KMS激活服务器",
           "icon": "/assets/favicon_1758111785469.png",
           "enabled": true
+        },
+        {
+          "id": "1758111857342",
+          "title": "网盘资源分享",
+          "href": "https://drive.chjina.com/",
+          "description": "个人网盘资源分享",
+          "icon": "/assets/favicon_1758111865865.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
