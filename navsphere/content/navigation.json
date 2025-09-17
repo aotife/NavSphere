@@ -939,6 +939,14 @@
           "description": "NTP时间服务器",
           "icon": "/assets/favicon_1758111749877.png",
           "enabled": true
+        },
+        {
+          "id": "1758111775379",
+          "title": "kms.chjina.com",
+          "href": "https://chjina.com/kms/",
+          "description": "KMS激活服务器",
+          "icon": "/assets/favicon_1758111785469.png",
+          "enabled": true
         }
       ],
       "subCategories": []
