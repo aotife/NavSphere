@@ -5,7 +5,7 @@
     "keywords": "设计导航,设计资源,设计工具,设计素材,设计教程"
   },
   "appearance": {
-    "logo": "/assets/images/alogo.png",
+    "logo": "https://pic.chjina.com/logo.jpg",
     "favicon": "https://typore-img.oss-cn-beijing.aliyuncs.com/Typecho/favicon.ico",
     "theme": "system"
   },
