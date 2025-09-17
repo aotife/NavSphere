@@ -955,6 +955,14 @@
           "description": "个人网盘资源分享",
           "icon": "/assets/favicon_1758111865865.ico",
           "enabled": true
+        },
+        {
+          "id": "1758111913287",
+          "title": "RSSHub",
+          "href": "https://rsshub.chjina.com/",
+          "description": "欢迎来到 RSSHub",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rsshub.chjina.com",
+          "enabled": true
         }
       ],
       "subCategories": []
