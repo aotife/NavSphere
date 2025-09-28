@@ -252,6 +252,14 @@
               "description": "专注免费分享各种使用教程，技术方案，云服务福利，域名服务，优惠福利，羊毛信息以及建站经验",
               "icon": "/assets/favicon_1759021997767.ico",
               "enabled": true
+            },
+            {
+              "id": "1759022012929",
+              "title": "GXNAS 博客",
+              "href": "https://wp.gxnas.com/",
+              "description": "GXNAS 博客",
+              "icon": "/assets/favicon_1759022015947.png",
+              "enabled": true
             }
           ]
         }
