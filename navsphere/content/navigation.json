@@ -144,6 +144,14 @@
           "description": "",
           "icon": "https://api.xinac.net/icon/?url=https://github.com/",
           "enabled": true
+        },
+        {
+          "id": "site_1759047654205_jfe6olxus",
+          "title": "一网一匠极速版 - 一起发现有趣的新产品",
+          "href": "https://ywyj.cn/",
+          "description": "B站UP一网一匠创建的产品发现社区，旨在打造一个服务于产品创造者和爱好者分享和交流社区，如果恰巧你是这样的人，那么欢迎你加入我们",
+          "icon": "/assets/favicon_1759047646333.png",
+          "enabled": true
         }
       ],
       "subCategories": []
