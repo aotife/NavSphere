@@ -244,7 +244,16 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759021993932",
+              "title": "如有乐享 - 分享是一种态度，是一种美德",
+              "href": "https://51.ruyo.net/",
+              "description": "专注免费分享各种使用教程，技术方案，云服务福利，域名服务，优惠福利，羊毛信息以及建站经验",
+              "icon": "/assets/favicon_1759021997767.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
