@@ -525,14 +525,6 @@
           "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
           "icon": "/assets/favicon_1759027593548.ico",
           "enabled": true
-        },
-        {
-          "id": "1759027623567",
-          "title": "观影",
-          "href": "https://www.gying.in/",
-          "description": "观影 需登录",
-          "icon": "/assets/favicon_1759027633273.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -559,7 +551,16 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759027623567",
+              "title": "观影",
+              "href": "https://www.gying.in/",
+              "description": "观影 需登录",
+              "icon": "/assets/favicon_1759027633273.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "9cef72a4-11d7-41ae-93a0-8eb4a5904a9b",
