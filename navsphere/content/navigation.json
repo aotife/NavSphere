@@ -104,7 +104,16 @@
       "icon": "Code",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759020846423",
+          "title": "Oschina开源中国",
+          "href": "https://www.oschina.net/",
+          "description": "程序员集散地",
+          "icon": "/assets/favicon_1759020850830.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
