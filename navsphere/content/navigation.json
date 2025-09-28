@@ -702,6 +702,14 @@
               "description": "风软资源站，免费分享安全绿色无广告软件，致力于打造最好的软件分享平台，让您享受如沐春风般的感觉！",
               "icon": "/assets/favicon_1759028772773.png",
               "enabled": true
+            },
+            {
+              "id": "1759028835188",
+              "title": "Lrepacks",
+              "href": "https://lrepacks.net/",
+              "description": "老毛子破解",
+              "icon": "/assets/favicon_1759028856682.png",
+              "enabled": true
             }
           ]
         },
