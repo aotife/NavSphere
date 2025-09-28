@@ -501,6 +501,14 @@
           "description": "看电影，可以改变人生",
           "icon": "/assets/favicon_1759025384670.png",
           "enabled": true
+        },
+        {
+          "id": "1759025436213",
+          "title": "6v电影-新版",
+          "href": "https://www.ai66.cc/",
+          "description": "6v电影-新版",
+          "icon": "/assets/favicon_1759025443319.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
