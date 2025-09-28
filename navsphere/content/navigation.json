@@ -632,6 +632,15 @@
       "subCategories": []
     },
     {
+      "id": "1759028475200",
+      "title": "资源下载",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -719,15 +728,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759028475200",
-      "title": "资源下载",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
