@@ -734,6 +734,14 @@
               "description": "分享迷致力于精选优质TV大屏软件、技术教程、电视资讯等内容，并关注电脑、手机等平台，推荐各类互联网好玩的事物！",
               "icon": "/assets/favicon_1759029046852.ico",
               "enabled": true
+            },
+            {
+              "id": "1759029059770",
+              "title": " 异常教程",
+              "href": "https://www.exception.site/",
+              "description": "JetBrains破解",
+              "icon": "/assets/favicon_1759029064556.png",
+              "enabled": true
             }
           ]
         },
