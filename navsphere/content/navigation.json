@@ -223,6 +223,15 @@
       "subCategories": []
     },
     {
+      "id": "1759021370048",
+      "title": "博客/论坛",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -310,15 +319,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759021370048",
-      "title": "博客/论坛",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
