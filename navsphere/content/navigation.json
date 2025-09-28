@@ -636,16 +636,7 @@
       "icon": "Box",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1759029374640",
-          "title": "丁香园 | 用药助手",
-          "href": "http://drugs.dxy.cn/",
-          "description": "丁香园 | 用药助手",
-          "icon": "/assets/favicon_1759029383354.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "2b098d4d-a5b2-40b6-8f53-f4a6e250ccb4",
@@ -719,7 +710,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759029374640",
+              "title": "丁香园 | 用药助手",
+              "href": "http://drugs.dxy.cn/",
+              "description": "丁香园 | 用药助手",
+              "icon": "/assets/favicon_1759029383354.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
