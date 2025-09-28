@@ -661,6 +661,14 @@
               "description": "老牌MSDN下载",
               "icon": "/assets/favicon_1759028596776.png",
               "enabled": true
+            },
+            {
+              "id": "1759028623349",
+              "title": "WZT的Techbench",
+              "href": "https://tb.rg-adguard.net/public.php?lang=zh-CN",
+              "description": "在Microsoft 服务器下载",
+              "icon": "/assets/favicon_1759028626211.png",
+              "enabled": true
             }
           ]
         },
