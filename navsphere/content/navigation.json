@@ -178,6 +178,14 @@
           "description": "菜鸟教程",
           "icon": "/assets/favicon_1759021161642.png",
           "enabled": true
+        },
+        {
+          "id": "1759021196256",
+          "title": "SegmentFault 思否",
+          "href": "https://segmentfault.com/",
+          "description": "SegmentFault 思否是中国专业的开发者技术社区。我们以技术问答、技术博客、技术课程、技术资讯为核心的产品形态，为开发者提供纯粹、高质的技术交流平台。",
+          "icon": "/assets/favicon_1759021200560.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
