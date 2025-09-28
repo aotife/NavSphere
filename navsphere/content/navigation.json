@@ -623,6 +623,15 @@
       "subCategories": []
     },
     {
+      "id": "1759028283847",
+      "title": "常用工具",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -710,15 +719,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759028283847",
-      "title": "常用工具",
-      "icon": "Box",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
