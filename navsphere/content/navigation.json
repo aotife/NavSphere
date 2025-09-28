@@ -666,7 +666,7 @@
           "title": "IP溯源 - IP.SY",
           "href": "https://ip.sy/",
           "description": "IP地址溯源工具，提供精确的地理位置信息",
-          "icon": "/assets/favicon_1759029490216.png",
+          "icon": "https://api.xinac.net/icon/?url=https://ip.sy/",
           "enabled": true
         }
       ],
