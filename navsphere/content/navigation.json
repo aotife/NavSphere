@@ -646,6 +646,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "407b1f89-279b-407e-9b3c-714583efa8b3",
+          "title": "软件下载",
+          "icon": "Folder",
+          "description": "破解软件分享",
+          "enabled": true,
+          "items": []
         }
       ]
     },
