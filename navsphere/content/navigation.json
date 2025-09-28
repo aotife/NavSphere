@@ -710,6 +710,14 @@
               "description": "老毛子破解",
               "icon": "/assets/favicon_1759028856682.png",
               "enabled": true
+            },
+            {
+              "id": "1759028962297",
+              "title": "Repack",
+              "href": "https://repack.me/",
+              "description": "老毛子破解站",
+              "icon": "/assets/favicon_1759029000008.png",
+              "enabled": true
             }
           ]
         },
