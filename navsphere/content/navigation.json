@@ -653,6 +653,14 @@
               "description": "HelloWindows是一个完整极致的Windows纯净系统下载站，不夹带任何私货，系统全部来源于微软官方原版，本站只是收录官方发布的系统以及工具，方便大家下载，请放心使用。永久在线：www.hellowindows.cn",
               "icon": "/assets/favicon_1759028581586.png",
               "enabled": true
+            },
+            {
+              "id": "1759028593936",
+              "title": "老牌MSDN下载",
+              "href": "https://msdn.itellyou.cn/",
+              "description": "老牌MSDN下载",
+              "icon": "/assets/favicon_1759028596776.png",
+              "enabled": true
             }
           ]
         },
