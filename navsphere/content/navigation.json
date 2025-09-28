@@ -393,6 +393,14 @@
               "description": "Kimi K2 是我们最新升级的 AI 助手，擅长推理、编程和调用工具，帮助你高效解决复杂问题。无论是工作、学习还是创作，都可以试试用 Kimi K2 来完成。",
               "icon": "/assets/favicon_1759023900122.png",
               "enabled": true
+            },
+            {
+              "id": "1759023916224",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+              "icon": "/assets/favicon_1759023920753.png",
+              "enabled": true
             }
           ]
         }
