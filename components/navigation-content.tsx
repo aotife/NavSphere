@@ -8,11 +8,10 @@ import { Sidebar } from '@/components/sidebar'
 import { SearchBar } from '@/components/search-bar'
 import { ModeToggle } from '@/components/mode-toggle'
 import { Footer } from '@/components/footer'
-import { Github, HelpCircle } from 'lucide-react'
+import { Menu } from 'lucide-react'
 import { Button } from "@/registry/new-york/ui/button"
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
-import { Menu } from 'lucide-react'
 
 interface NavigationContentProps {
   navigationData: NavigationData
@@ -141,13 +140,6 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             </div>
             <div className="flex items-center gap-1">
               <ModeToggle />
-                <Button
-                  variant="ghost"
-                  size="icon"
-                  className="hover:bg-accent hover:text-accent-foreground"
-                >
-                  <Github className="h-5 w-5" />
-                </Button>
               <Button
                 variant="ghost"
                 size="icon"
