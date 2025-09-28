@@ -365,6 +365,14 @@
               "description": "荒岛是由一个死宅博主建立的小众资源分享博客,博主本着分享创造快乐的原则,精挑细选,认真写好每一篇文章,努力将好玩的、好看的资讯带给大家.",
               "icon": "/assets/favicon_1759047256428.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1759047306620_00uzvyj6r",
+              "title": "火哥分享-新鲜、好玩、实用的网络资源",
+              "href": "https://www.firepx.com/",
+              "description": "畅游网络，火哥为您分享有关安卓APP，谷歌商店版本的APP，厂商定制版APP，苹果APP，服务器，VPS，金融支付等方面的知识。",
+              "icon": "/assets/favicon_1759047299540.png",
+              "enabled": true
             }
           ]
         }
