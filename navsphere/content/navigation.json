@@ -136,6 +136,14 @@
           "description": "访问 www.linux.do",
           "icon": "/assets/favicon_1759020981122.png",
           "enabled": true
+        },
+        {
+          "id": "1759020998967",
+          "title": "Csdn",
+          "href": "https://csdn.net/",
+          "description": "",
+          "icon": "/assets/favicon_1759021002099.png",
+          "enabled": true
         }
       ],
       "subCategories": []
