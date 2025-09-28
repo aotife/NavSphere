@@ -517,14 +517,6 @@
           "description": "BT之家1LOU站永久地址发布页",
           "icon": "https://api.xinac.net/icon/?url=www.1lou.cc",
           "enabled": true
-        },
-        {
-          "id": "1759027457373",
-          "title": "比特大雄",
-          "href": "https://www.btdx8.com/",
-          "description": "BT电影天堂",
-          "icon": "/assets/favicon_1759027477221.png",
-          "enabled": true
         }
       ],
       "subCategories": []
