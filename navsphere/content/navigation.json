@@ -583,6 +583,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9cef72a4-11d7-41ae-93a0-8eb4a5904a9b",
+          "title": "电视直播",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
