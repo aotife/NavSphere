@@ -507,7 +507,7 @@
           "title": "6v电影-新版",
           "href": "https://www.ai66.cc/",
           "description": "6v电影-新版",
-          "icon": "/assets/favicon_1759025443319.ico",
+          "icon": "https://api.xinac.net/icon/?url=https://www.ai66.cc/",
           "enabled": true
         },
         {
