@@ -162,7 +162,16 @@
       "icon": "Flag",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759021132399",
+          "title": "W3school在线教程",
+          "href": "https://w3school.com.cn/",
+          "description": "",
+          "icon": "/assets/favicon_1759021135722.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
