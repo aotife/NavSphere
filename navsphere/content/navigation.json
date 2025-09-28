@@ -638,14 +638,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1759029351189",
-          "title": "帮小忙",
-          "href": "https://tool.browser.qq.com/",
-          "description": "QQ在线工具箱",
-          "icon": "/assets/favicon_1759029354350.png",
-          "enabled": true
-        },
-        {
           "id": "1759029374640",
           "title": "丁香园 | 用药助手",
           "href": "http://drugs.dxy.cn/",
@@ -700,6 +692,14 @@
               "href": "https://bangong.360.cn/",
               "description": "苏打办公",
               "icon": "/assets/favicon_1759029324588.png",
+              "enabled": true
+            },
+            {
+              "id": "1759029351189",
+              "title": "帮小忙",
+              "href": "https://tool.browser.qq.com/",
+              "description": "QQ在线工具箱",
+              "icon": "/assets/favicon_1759029354350.png",
               "enabled": true
             }
           ]
