@@ -268,6 +268,14 @@
               "description": "王哥哥",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.azurew.com",
               "enabled": true
+            },
+            {
+              "id": "1759022586250",
+              "title": "丁辉博客",
+              "href": "https://www.dinghui.org/",
+              "description": "Vmware系统集成大佬",
+              "icon": "/assets/favicon_1759022590072.png",
+              "enabled": true
             }
           ]
         }
