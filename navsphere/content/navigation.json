@@ -493,6 +493,14 @@
           "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
           "icon": "/assets/favicon_1759025365144.ico",
           "enabled": true
+        },
+        {
+          "id": "1759025381810",
+          "title": "91毒舌电影",
+          "href": "https://www.duse1.com:51111/",
+          "description": "看电影，可以改变人生",
+          "icon": "/assets/favicon_1759025384670.png",
+          "enabled": true
         }
       ],
       "subCategories": []
