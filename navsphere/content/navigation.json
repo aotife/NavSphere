@@ -202,6 +202,14 @@
           "description": "",
           "icon": "/assets/favicon_1759021282810.png",
           "enabled": true
+        },
+        {
+          "id": "1759021298048",
+          "title": "Linux命令大全(手册) &#8211; 真正好用的Linux命令在线查询网站",
+          "href": "https://www.linuxcool.com/",
+          "description": "专注于Linux命令大全与详解的在线命令查询网站，包含Linux命令手册、Linux命令详解、Linux命令学习与shell脚本编程大全等优质学习资料，准确，丰富，稳定，在技术之路上为您护航！",
+          "icon": "/assets/favicon_1759021301537.png",
+          "enabled": true
         }
       ],
       "subCategories": []
