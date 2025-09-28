@@ -441,7 +441,7 @@
           "id": "c1392da6-b136-45f0-9be5-f1df3bd13a1b",
           "title": "国内AI",
           "icon": "Network",
-          "description": "",
+          "description": "国内AI列表",
           "enabled": true,
           "items": [
             {
