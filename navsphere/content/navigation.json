@@ -597,6 +597,15 @@
       ]
     },
     {
+      "id": "1759028130431",
+      "title": "音乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -684,15 +693,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759028130431",
-      "title": "音乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
