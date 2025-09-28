@@ -541,14 +541,6 @@
           "description": "淘片资源网",
           "icon": "/assets/favicon_1759027697077.png",
           "enabled": true
-        },
-        {
-          "id": "1759027819096",
-          "title": "IPTVindex.com",
-          "href": "https://www.iptvindex.com/",
-          "description": "",
-          "icon": "/assets/favicon_1759027822140.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -589,6 +581,14 @@
               "href": "https://www.iptvindex.com/",
               "description": "分享各类直播源",
               "icon": "/assets/favicon_1759027841695.png",
+              "enabled": true
+            },
+            {
+              "id": "1759027819096",
+              "title": "IPTVindex.com",
+              "href": "https://www.iptvindex.com/",
+              "description": "",
+              "icon": "/assets/favicon_1759027822140.png",
               "enabled": true
             }
           ]
