@@ -644,14 +644,6 @@
           "description": "丁香园 | 用药助手",
           "icon": "/assets/favicon_1759029383354.png",
           "enabled": true
-        },
-        {
-          "id": "1759029482192",
-          "title": "IP溯源 - IP.SY",
-          "href": "https://ip.sy/",
-          "description": "IP地址溯源工具，提供精确的地理位置信息",
-          "icon": "https://api.xinac.net/icon/?url=https://ip.sy/",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -709,6 +701,14 @@
               "href": "https://www.wetest.vip/",
               "description": "微测网 (WeTest.vip) - 提供 CloudFlare, CloudFront ,EdgeOne等全球云服务的 CDN IP 优选、节点状态监测和相关工具。",
               "icon": "/assets/favicon_1759046349028.png",
+              "enabled": true
+            },
+            {
+              "id": "1759029482192",
+              "title": "IP溯源 - IP.SY",
+              "href": "https://ip.sy/",
+              "description": "IP地址溯源工具，提供精确的地理位置信息",
+              "icon": "https://api.xinac.net/icon/?url=https://ip.sy/",
               "enabled": true
             }
           ]
