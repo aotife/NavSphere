@@ -112,6 +112,14 @@
           "description": "程序员集散地",
           "icon": "/assets/favicon_1759020850830.png",
           "enabled": true
+        },
+        {
+          "id": "1759020887047",
+          "title": "V2ex",
+          "href": "https://v2ex.com/",
+          "description": "访问 v2ex.com",
+          "icon": "/assets/favicon_1759020888581.png",
+          "enabled": true
         }
       ],
       "subCategories": []
