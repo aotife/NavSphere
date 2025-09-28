@@ -533,6 +533,14 @@
           "description": "观影 需登录",
           "icon": "/assets/favicon_1759027633273.png",
           "enabled": true
+        },
+        {
+          "id": "1759027692207",
+          "title": "淘片资源网",
+          "href": "https://www.taopianzy.com/",
+          "description": "淘片资源网",
+          "icon": "/assets/favicon_1759027697077.png",
+          "enabled": true
         }
       ],
       "subCategories": []
