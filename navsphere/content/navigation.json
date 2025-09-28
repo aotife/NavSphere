@@ -471,14 +471,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1759027692207",
-              "title": "淘片资源网",
-              "href": "https://www.taopianzy.com/",
-              "description": "淘片资源网",
-              "icon": "/assets/favicon_1759027697077.png",
-              "enabled": true
-            },
-            {
               "id": "1759025436213",
               "title": "6v电影-新版",
               "href": "https://www.ai66.cc/",
@@ -500,6 +492,14 @@
               "href": "https://vidhub.tv/",
               "description": "vidhub",
               "icon": "https://api.xinac.net/icon/?url=vidhub.tv",
+              "enabled": true
+            },
+            {
+              "id": "1759027692207",
+              "title": "淘片资源网",
+              "href": "https://www.taopianzy.com/",
+              "description": "淘片资源网",
+              "icon": "/assets/favicon_1759027697077.png",
               "enabled": true
             }
           ]
