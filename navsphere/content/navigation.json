@@ -260,6 +260,14 @@
               "description": "GXNAS 博客",
               "icon": "/assets/favicon_1759022015947.png",
               "enabled": true
+            },
+            {
+              "id": "1759022039033",
+              "title": "王哥哥",
+              "href": "https://www.azurew.com/",
+              "description": "王哥哥",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.azurew.com",
+              "enabled": true
             }
           ]
         }
