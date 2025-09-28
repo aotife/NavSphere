@@ -170,6 +170,14 @@
           "description": "",
           "icon": "/assets/favicon_1759021135722.png",
           "enabled": true
+        },
+        {
+          "id": "1759021158846",
+          "title": "菜鸟教程",
+          "href": "https://runoob.com/",
+          "description": "菜鸟教程",
+          "icon": "/assets/favicon_1759021161642.png",
+          "enabled": true
         }
       ],
       "subCategories": []
