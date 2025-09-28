@@ -629,7 +629,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "16b1fd3e-e414-4c81-8117-3951b6d6ab3f",
+          "title": "办公",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1758111725350",
