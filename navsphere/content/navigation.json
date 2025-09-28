@@ -194,6 +194,14 @@
           "description": "Freebuf 网络安全行业门户",
           "icon": "/assets/favicon_1759021230873.png",
           "enabled": true
+        },
+        {
+          "id": "1759021279030",
+          "title": "简书",
+          "href": "https://jianshu.com/",
+          "description": "",
+          "icon": "/assets/favicon_1759021282810.png",
+          "enabled": true
         }
       ],
       "subCategories": []
