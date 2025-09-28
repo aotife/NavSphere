@@ -373,6 +373,14 @@
               "description": "畅游网络，火哥为您分享有关安卓APP，谷歌商店版本的APP，厂商定制版APP，苹果APP，服务器，VPS，金融支付等方面的知识。",
               "icon": "/assets/favicon_1759047299540.png",
               "enabled": true
+            },
+            {
+              "id": "site_1759049340336_sd8oqpa3p",
+              "title": "蓝点网 - 给你感兴趣的内容",
+              "href": "https://www.landiannews.com/",
+              "description": "科技资讯、软件工具、技术教程，尽在蓝点网！蓝点网，给你感兴趣的内容！",
+              "icon": "/assets/favicon_1759049331070.png",
+              "enabled": true
             }
           ]
         }
