@@ -694,6 +694,14 @@
               "description": "果核剥壳",
               "icon": "/assets/favicon_1759028730184.png",
               "enabled": true
+            },
+            {
+              "id": "1759028770360",
+              "title": "风软资源站 - 软件分享,如沐春风!",
+              "href": "https://www.ifengsoft.com/",
+              "description": "风软资源站，免费分享安全绿色无广告软件，致力于打造最好的软件分享平台，让您享受如沐春风般的感觉！",
+              "icon": "/assets/favicon_1759028772773.png",
+              "enabled": true
             }
           ]
         },
