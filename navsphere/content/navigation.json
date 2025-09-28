@@ -646,14 +646,6 @@
           "enabled": true
         },
         {
-          "id": "1759029442041",
-          "title": "匿名邮箱",
-          "href": "https://mail.awsl.uk/",
-          "description": "匿名邮箱，可发信",
-          "icon": "/assets/favicon_1759029451858.png",
-          "enabled": true
-        },
-        {
           "id": "1759029482192",
           "title": "IP溯源 - IP.SY",
           "href": "https://ip.sy/",
@@ -710,7 +702,16 @@
           "icon": "Shield",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759029442041",
+              "title": "匿名邮箱",
+              "href": "https://mail.awsl.uk/",
+              "description": "匿名邮箱，可发信",
+              "icon": "/assets/favicon_1759029451858.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
