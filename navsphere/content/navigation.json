@@ -544,6 +544,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759024992572",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
