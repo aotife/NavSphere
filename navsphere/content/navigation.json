@@ -644,6 +644,14 @@
           "description": "360 苏打办公",
           "icon": "/assets/favicon_1759028360536.png",
           "enabled": true
+        },
+        {
+          "id": "1759028393408",
+          "title": "帮小忙，腾讯QQ浏览器在线工具箱平台",
+          "href": "https://tool.browser.qq.com/",
+          "description": "帮小忙，腾讯QQ浏览器在线工具箱平台，提供证件照生成，表情包制作，PDF转换，文字提取，二维码生成，数据校验、照片修复、插件安装等在线服务，让你无忧生活。帮小忙-全部分类工具",
+          "icon": "/assets/favicon_1759028397216.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
