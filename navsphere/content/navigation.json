@@ -413,6 +413,49 @@
       "subCategories": []
     },
     {
+      "id": "1759023685789",
+      "title": "AI工具包",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "c1392da6-b136-45f0-9be5-f1df3bd13a1b",
+          "title": "国内AI",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1759023856906",
+              "title": "Kimi - 更强大的 AI 助手",
+              "href": "https://www.kimi.com/",
+              "description": "Kimi K2 是我们最新升级的 AI 助手，擅长推理、编程和调用工具，帮助你高效解决复杂问题。无论是工作、学习还是创作，都可以试试用 Kimi K2 来完成。",
+              "icon": "/assets/favicon_1759023900122.png",
+              "enabled": true
+            },
+            {
+              "id": "1759023916224",
+              "title": "豆包",
+              "href": "https://www.doubao.com/chat/",
+              "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
+              "icon": "/assets/favicon_1759023920753.png",
+              "enabled": true
+            },
+            {
+              "id": "1759023935922",
+              "title": "问小白官网 ",
+              "href": "https://www.wenxiaobai.com/",
+              "description": "问小白 - 顶级大模型免费使用，Deepseek R1/V3/V3.1、问小白5对标Openai-GPT5，支持AI联网搜索、AI学术搜索，Deep Research，AI图片编辑和生成，AI 智能体情感陪伴",
+              "icon": "/assets/favicon_1759023939528.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1759024992572",
       "title": "影视资源",
       "icon": "Video",
@@ -547,49 +590,6 @@
               "href": "https://www.iptvindex.com/",
               "description": "",
               "icon": "/assets/favicon_1759027822140.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1759023685789",
-      "title": "AI工具包",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "c1392da6-b136-45f0-9be5-f1df3bd13a1b",
-          "title": "国内AI",
-          "icon": "Network",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1759023856906",
-              "title": "Kimi - 更强大的 AI 助手",
-              "href": "https://www.kimi.com/",
-              "description": "Kimi K2 是我们最新升级的 AI 助手，擅长推理、编程和调用工具，帮助你高效解决复杂问题。无论是工作、学习还是创作，都可以试试用 Kimi K2 来完成。",
-              "icon": "/assets/favicon_1759023900122.png",
-              "enabled": true
-            },
-            {
-              "id": "1759023916224",
-              "title": "豆包",
-              "href": "https://www.doubao.com/chat/",
-              "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
-              "icon": "/assets/favicon_1759023920753.png",
-              "enabled": true
-            },
-            {
-              "id": "1759023935922",
-              "title": "问小白官网 ",
-              "href": "https://www.wenxiaobai.com/",
-              "description": "问小白 - 顶级大模型免费使用，Deepseek R1/V3/V3.1、问小白5对标Openai-GPT5，支持AI联网搜索、AI学术搜索，Deep Research，AI图片编辑和生成，AI 智能体情感陪伴",
-              "icon": "/assets/favicon_1759023939528.png",
               "enabled": true
             }
           ]
