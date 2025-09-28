@@ -187,6 +187,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759020807281",
+      "title": "技术",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
