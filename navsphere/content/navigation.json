@@ -629,7 +629,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "f79eda39-acd1-4eee-b660-c434624115dc",
+          "title": "办公",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1759028475200",
