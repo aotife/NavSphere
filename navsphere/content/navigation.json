@@ -400,6 +400,14 @@
           "description": "一群小伙伴共同分享各种优惠消息,福利活动,免费资源的和谐社区",
           "icon": "/assets/favicon_1759023361769.ico",
           "enabled": true
+        },
+        {
+          "id": "1759023599687",
+          "title": "潮流周刊",
+          "href": "https://weekly.tw93.fun/",
+          "description": "记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注",
+          "icon": "/assets/favicon_1759023603568.png",
+          "enabled": true
         }
       ],
       "subCategories": []
