@@ -461,16 +461,7 @@
       "icon": "Video",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1759025040982",
-          "title": "七味网",
-          "href": "https://www.pknull.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=www.pknull.com",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "e8446eb1-2d9f-4639-8362-3d496efee5e6",
@@ -558,6 +549,14 @@
               "href": "https://www.0bt0.com",
               "description": "",
               "icon": "https://api.xinac.net/icon/?url=https://www.0bt0.com",
+              "enabled": true
+            },
+            {
+              "id": "1759025040982",
+              "title": "七味网",
+              "href": "https://www.pknull.com/",
+              "description": "",
+              "icon": "https://api.xinac.net/icon/?url=www.pknull.com",
               "enabled": true
             }
           ]
