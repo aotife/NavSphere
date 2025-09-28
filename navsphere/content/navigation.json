@@ -628,7 +628,16 @@
       "icon": "Box",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1759028345585",
+          "title": "TinyPNG – 智能压缩您的WebP、JPEG和PNG图片",
+          "href": "https://tinypng.com/cn/",
+          "description": "加速您网站的访问并节约带宽。TinyPNG 将您的 WebP、PNG 和 JPEG 图片压缩50-80%。同时保留PNG的透明度。",
+          "icon": "/assets/favicon_1759028347148.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "16b1fd3e-e414-4c81-8117-3951b6d6ab3f",
