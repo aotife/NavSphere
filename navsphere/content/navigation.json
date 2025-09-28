@@ -99,6 +99,15 @@
       "enabled": true
     },
     {
+      "id": "1759020807281",
+      "title": "技术",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -186,15 +195,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759020807281",
-      "title": "技术",
-      "icon": "Code",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
