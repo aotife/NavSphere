@@ -644,6 +644,14 @@
           "description": "苏打办公",
           "icon": "/assets/favicon_1759029324588.png",
           "enabled": true
+        },
+        {
+          "id": "1759029351189",
+          "title": "帮小忙",
+          "href": "https://tool.browser.qq.com/",
+          "description": "QQ在线工具箱",
+          "icon": "/assets/favicon_1759029354350.png",
+          "enabled": true
         }
       ],
       "subCategories": [
