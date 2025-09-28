@@ -128,7 +128,7 @@ function getFallbackMetadata(url: string): WebsiteMetadata {
         return {
             title: capitalizedTitle,
             description: `访问 ${hostname}`,
-            icon: `https://www.google.com/s2/favicons?sz=128&domain=${hostname}`
+            icon: `https://api.xinac.net/icon/?url=${hostname}`
         }
     } catch {
         return {
