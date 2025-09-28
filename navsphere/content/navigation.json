@@ -408,6 +408,14 @@
           "description": "记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注",
           "icon": "/assets/favicon_1759024532808.png",
           "enabled": true
+        },
+        {
+          "id": "site_1759043411194_fxlj120vg",
+          "title": "少数派 - 高效工作，品质生活",
+          "href": "https://sspai.com/",
+          "description": "少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质",
+          "icon": "/assets/favicon_1759043402063.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
