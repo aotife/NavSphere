@@ -575,6 +575,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "837f2ecf-2dbf-4d91-bab1-5faf7ec2185d",
+          "title": "影视下载",
+          "icon": "Files",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
