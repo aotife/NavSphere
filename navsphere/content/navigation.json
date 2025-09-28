@@ -384,6 +384,14 @@
           "description": "一站式摸鱼新体验",
           "icon": "/assets/favicon_1759024489073.png",
           "enabled": true
+        },
+        {
+          "id": "1759024505696",
+          "title": "摸摸鱼热榜",
+          "href": "https://momoyu.cc/",
+          "description": "摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！",
+          "icon": "/assets/favicon_1759024507669.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
