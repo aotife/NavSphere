@@ -276,6 +276,14 @@
               "description": "Vmware系统集成大佬",
               "icon": "/assets/favicon_1759022590072.png",
               "enabled": true
+            },
+            {
+              "id": "1759022627271",
+              "title": "爱开源",
+              "href": "https://www.aikaiyuan.com/",
+              "description": "",
+              "icon": "/assets/favicon_1759022630305.png",
+              "enabled": true
             }
           ]
         }
