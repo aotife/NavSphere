@@ -638,7 +638,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "2949e057-3e3a-4e12-ad99-ad28354c257b",
+          "title": "Windows 下载",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1758111725350",
