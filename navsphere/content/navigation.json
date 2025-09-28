@@ -252,6 +252,14 @@
               "description": "国内安全破解，病毒分析论坛",
               "icon": "/assets/favicon_1759022873441.svg",
               "enabled": true
+            },
+            {
+              "id": "1759022909894",
+              "title": "恩山无线论坛",
+              "href": "https://www.right.com.cn/forum/",
+              "description": "无线路由器爱好者的圣地",
+              "icon": "/assets/favicon_1759022913078.png",
+              "enabled": true
             }
           ]
         },
