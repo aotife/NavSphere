@@ -501,14 +501,6 @@
           "description": "看电影，可以改变人生",
           "icon": "/assets/favicon_1759025384670.png",
           "enabled": true
-        },
-        {
-          "id": "1759025436213",
-          "title": "6v电影-新版",
-          "href": "https://www.ai66.cc/",
-          "description": "6v电影-新版",
-          "icon": "https://api.xinac.net/icon/?url=https://www.ai66.cc/",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -525,6 +517,14 @@
               "href": "https://www.taopianzy.com/",
               "description": "淘片资源网",
               "icon": "/assets/favicon_1759027697077.png",
+              "enabled": true
+            },
+            {
+              "id": "1759025436213",
+              "title": "6v电影-新版",
+              "href": "https://www.ai66.cc/",
+              "description": "6v电影-新版",
+              "icon": "https://api.xinac.net/icon/?url=https://www.ai66.cc/",
               "enabled": true
             }
           ]
