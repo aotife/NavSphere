@@ -712,6 +712,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "106b9811-ad44-49c0-855e-6aaee9729218",
+          "title": "其他工具",
+          "icon": "FileText",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
