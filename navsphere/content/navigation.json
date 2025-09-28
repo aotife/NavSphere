@@ -487,6 +487,14 @@
               "enabled": true
             },
             {
+              "id": "1759043138199",
+              "title": "修罗影视",
+              "href": "https://xl01.com.de/",
+              "description": "修罗影视 原哔哩影视",
+              "icon": "/assets/favicon_1759043153768.png",
+              "enabled": true
+            },
+            {
               "id": "1759025381810",
               "title": "91毒舌电影",
               "href": "https://www.duse1.com:51111/",
@@ -500,14 +508,6 @@
               "href": "https://www.taopianzy.com/",
               "description": "淘片资源网",
               "icon": "https://api.xinac.net/icon/?url=https://www.taopianzy.com/",
-              "enabled": true
-            },
-            {
-              "id": "1759043138199",
-              "title": "修罗影视",
-              "href": "https://xl01.com.de/",
-              "description": "修罗影视 原哔哩影视",
-              "icon": "/assets/favicon_1759043153768.png",
               "enabled": true
             }
           ]
