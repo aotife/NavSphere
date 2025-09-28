@@ -469,6 +469,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "28c8c714-bbde-47f3-843d-ecc04af0edbe",
+          "title": "国外AI",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
