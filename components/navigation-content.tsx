@@ -148,7 +148,6 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 >
                   <Github className="h-5 w-5" />
                 </Button>
-              </Link>
               <Button
                 variant="ghost"
                 size="icon"
