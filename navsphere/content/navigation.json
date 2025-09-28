@@ -652,14 +652,6 @@
           "description": "IP地址溯源工具，提供精确的地理位置信息",
           "icon": "https://api.xinac.net/icon/?url=https://ip.sy/",
           "enabled": true
-        },
-        {
-          "id": "site_1759046362083_rm4uy0t11",
-          "title": "微测网 - 全球云服务监测平台",
-          "href": "https://www.wetest.vip/",
-          "description": "微测网 (WeTest.vip) - 提供 CloudFlare, CloudFront ,EdgeOne等全球云服务的 CDN IP 优选、节点状态监测和相关工具。",
-          "icon": "/assets/favicon_1759046349028.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -709,6 +701,14 @@
               "href": "https://mail.awsl.uk/",
               "description": "匿名邮箱，可发信",
               "icon": "/assets/favicon_1759029451858.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1759046362083_rm4uy0t11",
+              "title": "微测网 - 全球云服务监测平台",
+              "href": "https://www.wetest.vip/",
+              "description": "微测网 (WeTest.vip) - 提供 CloudFlare, CloudFront ,EdgeOne等全球云服务的 CDN IP 优选、节点状态监测和相关工具。",
+              "icon": "/assets/favicon_1759046349028.png",
               "enabled": true
             }
           ]
