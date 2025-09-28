@@ -759,6 +759,14 @@
               "description": "Installer &amp; Activited Microsoft Office For MacOS",
               "icon": "/assets/favicon_1759029114947.png",
               "enabled": true
+            },
+            {
+              "id": "1759029120145",
+              "title": "Office For Mac | MAS",
+              "href": "https://massgrave.dev/office_for_mac",
+              "description": "All the listed Office installer and activator download links lead to Official Microsoft files only.",
+              "icon": "/assets/favicon_1759029127698.ico",
+              "enabled": true
             }
           ]
         }
