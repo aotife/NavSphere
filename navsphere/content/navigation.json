@@ -231,16 +231,16 @@
       "items": [],
       "subCategories": [
         {
-          "id": "f6f85e13-1932-448e-96bc-8da100dd6dda",
-          "title": "博客",
+          "id": "4c769bbe-4dee-4a15-9d5f-ad865dbcebfb",
+          "title": "论坛",
           "icon": "Files",
           "description": "",
           "enabled": true,
           "items": []
         },
         {
-          "id": "4c769bbe-4dee-4a15-9d5f-ad865dbcebfb",
-          "title": "论坛",
+          "id": "f6f85e13-1932-448e-96bc-8da100dd6dda",
+          "title": "博客",
           "icon": "Files",
           "description": "",
           "enabled": true,
