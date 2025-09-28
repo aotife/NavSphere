@@ -311,6 +311,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759021370048",
+      "title": "博客/论坛",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
