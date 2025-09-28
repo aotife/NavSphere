@@ -660,6 +660,14 @@
           "description": "丁香园 | 用药助手",
           "icon": "/assets/favicon_1759029383354.png",
           "enabled": true
+        },
+        {
+          "id": "1759029442041",
+          "title": "匿名邮箱",
+          "href": "https://mail.awsl.uk/",
+          "description": "匿名邮箱，可发信",
+          "icon": "/assets/favicon_1759029451858.png",
+          "enabled": true
         }
       ],
       "subCategories": [
