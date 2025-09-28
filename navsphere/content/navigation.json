@@ -471,6 +471,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1759025084161",
+              "title": "Vidhub",
+              "href": "https://vidhub.tv/",
+              "description": "vidhub",
+              "icon": "https://api.xinac.net/icon/?url=vidhub.tv",
+              "enabled": true
+            },
+            {
               "id": "1759025436213",
               "title": "6v电影-新版",
               "href": "https://www.ai66.cc/",
@@ -484,14 +492,6 @@
               "href": "https://www.duse1.com:51111/",
               "description": "看电影，可以改变人生",
               "icon": "/assets/favicon_1759025384670.png",
-              "enabled": true
-            },
-            {
-              "id": "1759025084161",
-              "title": "Vidhub",
-              "href": "https://vidhub.tv/",
-              "description": "vidhub",
-              "icon": "https://api.xinac.net/icon/?url=vidhub.tv",
               "enabled": true
             },
             {
