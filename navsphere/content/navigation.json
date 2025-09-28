@@ -150,7 +150,7 @@
           "title": "GitHub ",
           "href": "https://github.com/",
           "description": "",
-          "icon": "https://github.githubassets.com/favicons/favicon",
+          "icon": "https://api.xinac.net/icon/?url=https://github.com/",
           "enabled": true
         }
       ],
