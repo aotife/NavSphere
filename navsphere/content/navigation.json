@@ -557,6 +557,14 @@
           "description": "",
           "icon": "/assets/favicon_1759027822140.png",
           "enabled": true
+        },
+        {
+          "id": "1759027840029",
+          "title": "电视直播源",
+          "href": "https://www.iptvindex.com/",
+          "description": "分享各类直播源",
+          "icon": "/assets/favicon_1759027841695.png",
+          "enabled": true
         }
       ],
       "subCategories": []
