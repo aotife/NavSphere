@@ -652,6 +652,14 @@
           "description": "QQ在线工具箱",
           "icon": "/assets/favicon_1759029354350.png",
           "enabled": true
+        },
+        {
+          "id": "1759029374640",
+          "title": "丁香园 | 用药助手",
+          "href": "http://drugs.dxy.cn/",
+          "description": "丁香园 | 用药助手",
+          "icon": "/assets/favicon_1759029383354.png",
+          "enabled": true
         }
       ],
       "subCategories": [
