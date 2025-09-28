@@ -679,6 +679,14 @@
           "description": "破解软件分享",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "f201e279-3dfa-4816-b598-0a1674a36006",
+          "title": "苹果电脑资源",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
