@@ -516,7 +516,7 @@
               "title": "观影",
               "href": "https://www.gying.in/",
               "description": "观影 需登录",
-              "icon": "/assets/favicon_1759027633273.png",
+              "icon": "https://api.xinac.net/icon/?url=https://www.gying.in/",
               "enabled": true
             },
             {
