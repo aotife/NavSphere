@@ -685,6 +685,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759028130431",
+      "title": "音乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
