@@ -499,7 +499,7 @@
               "title": "淘片资源网",
               "href": "https://www.taopianzy.com/",
               "description": "淘片资源网",
-              "icon": "/assets/favicon_1759027697077.png",
+              "icon": "https://api.xinac.net/icon/?url=https://www.taopianzy.com/",
               "enabled": true
             }
           ]
