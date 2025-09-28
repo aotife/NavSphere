@@ -236,7 +236,16 @@
           "icon": "Files",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759022831706",
+              "title": "福利吧-分享你的福利吧",
+              "href": "https://fuliba2023.net/",
+              "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
+              "icon": "/assets/favicon_1759022856865.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "f6f85e13-1932-448e-96bc-8da100dd6dda",
