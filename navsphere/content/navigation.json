@@ -567,7 +567,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "e8446eb1-2d9f-4639-8362-3d496efee5e6",
+          "title": "在线观影",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1758111725350",
