@@ -368,48 +368,7 @@
       "icon": "Briefcase",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1759023282952",
-          "title": "今日热榜官网",
-          "href": "https://tophub.today/",
-          "description": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
-          "icon": "/assets/favicon_1759023285850.png",
-          "enabled": true
-        },
-        {
-          "id": "1759023308882",
-          "title": "摸鱼鸭",
-          "href": "https://moyuduck.com/",
-          "description": "一站式摸鱼新体验",
-          "icon": "/assets/favicon_1759023315360.png",
-          "enabled": true
-        },
-        {
-          "id": "1759023336121",
-          "title": "摸摸鱼热榜",
-          "href": "https://momoyu.cc/",
-          "description": "摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！",
-          "icon": "/assets/favicon_1759023344038.ico",
-          "enabled": true
-        },
-        {
-          "id": "1759023352147",
-          "title": "JIKE",
-          "href": "https://jike.info/",
-          "description": "一群小伙伴共同分享各种优惠消息,福利活动,免费资源的和谐社区",
-          "icon": "/assets/favicon_1759023361769.ico",
-          "enabled": true
-        },
-        {
-          "id": "1759023599687",
-          "title": "潮流周刊",
-          "href": "https://weekly.tw93.fun/",
-          "description": "记录工程师 Tw93 的不枯燥生活，每周一发布，欢迎关注",
-          "icon": "/assets/favicon_1759023603568.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
@@ -500,6 +459,15 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "1759023685789",
+      "title": "AI工具包",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     }
   ]
