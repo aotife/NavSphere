@@ -244,6 +244,14 @@
               "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
               "icon": "/assets/favicon_1759022856865.ico",
               "enabled": true
+            },
+            {
+              "id": "1759022869752",
+              "title": "吾爱破解论坛",
+              "href": "https://www.52pojie.cn/",
+              "description": "国内安全破解，病毒分析论坛",
+              "icon": "/assets/favicon_1759022873441.svg",
+              "enabled": true
             }
           ]
         },
