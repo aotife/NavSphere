@@ -372,6 +372,15 @@
       "subCategories": []
     },
     {
+      "id": "1759023685789",
+      "title": "AI工具包",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -459,15 +468,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759023685789",
-      "title": "AI工具包",
-      "icon": "Brain",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
