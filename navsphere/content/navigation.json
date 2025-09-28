@@ -485,6 +485,14 @@
           "description": "",
           "icon": "https://api.xinac.net/icon/?url=https://www.0bt0.com",
           "enabled": true
+        },
+        {
+          "id": "1759025355053",
+          "title": "SeedHub | 影视&动漫分享",
+          "href": "https://www.seedhub.cc/",
+          "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
+          "icon": "/assets/favicon_1759025365144.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
