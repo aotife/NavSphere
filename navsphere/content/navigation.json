@@ -120,6 +120,14 @@
           "description": "访问 v2ex.com",
           "icon": "/assets/favicon_1759020888581.png",
           "enabled": true
+        },
+        {
+          "id": "1759020958167",
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1759020960871.png",
+          "enabled": true
         }
       ],
       "subCategories": []
