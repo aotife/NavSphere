@@ -217,11 +217,11 @@ function extractFavicon(html: string, baseUrl: string): string | null {
     }
 
     // 如果没有找到，使用 Google 的 favicon 服务作为备用
-    return `https://www.google.com/s2/favicons?sz=128&domain=${base.hostname}`
+    return `https://api.xinac.net/icon/?url=${base.hostname}`
 }
 
 async function downloadGoogleFavicon(domain: string, token: string): Promise<string> {
-    const googleFaviconUrl = `https://www.google.com/s2/favicons?sz=128&domain=${domain}`
+    const googleFaviconUrl = `https://api.xinac.net/icon/?url=${domain}`
 
     try {
         const response = await fetch(googleFaviconUrl, {
