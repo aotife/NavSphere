@@ -509,14 +509,6 @@
           "description": "6v电影-新版",
           "icon": "https://api.xinac.net/icon/?url=https://www.ai66.cc/",
           "enabled": true
-        },
-        {
-          "id": "1759027092093",
-          "title": "BT之家1LOU站永久地址发布页",
-          "href": "https://www.1lou.cc/",
-          "description": "BT之家1LOU站永久地址发布页",
-          "icon": "https://api.xinac.net/icon/?url=www.1lou.cc",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -558,6 +550,14 @@
               "href": "https://www.yinfans.me/",
               "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
               "icon": "/assets/favicon_1759027593548.ico",
+              "enabled": true
+            },
+            {
+              "id": "1759027092093",
+              "title": "BT之家1LOU站永久地址发布页",
+              "href": "https://www.1lou.cc/",
+              "description": "BT之家1LOU站永久地址发布页",
+              "icon": "https://api.xinac.net/icon/?url=www.1lou.cc",
               "enabled": true
             }
           ]
