@@ -467,7 +467,7 @@
           "title": "七味网",
           "href": "https://www.pknull.com/",
           "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pknull.com",
+          "icon": "https://api.xinac.net/icon/?url=www.pknull.com",
           "enabled": true
         },
         {
