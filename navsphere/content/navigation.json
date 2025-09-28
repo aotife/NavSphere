@@ -718,6 +718,14 @@
               "description": "IP地址溯源工具，提供精确的地理位置信息",
               "icon": "https://api.xinac.net/icon/?url=https://ip.sy/",
               "enabled": true
+            },
+            {
+              "id": "site_1759047214236_dza8mr9v0",
+              "title": "Temp Mail - 免费Edu / .COM临时邮件",
+              "href": "https://etempmail.com/zh",
+              "description": "立即创建免费的临时电子邮件地址。选择.com、.edu或自定义域名。通过eTempMail保护您的隐私 - 无需注册，无垃圾邮件。",
+              "icon": "/assets/favicon_1759047201729.png",
+              "enabled": true
             }
           ]
         },
