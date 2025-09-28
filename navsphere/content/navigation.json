@@ -307,7 +307,7 @@
               "title": "王哥哥",
               "href": "https://www.azurew.com/",
               "description": "王哥哥",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.azurew.com",
+              "icon": "https://api.xinac.net/icon/?url=www.azurew.com",
               "enabled": true
             },
             {
