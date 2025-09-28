@@ -549,6 +549,14 @@
           "description": "CCTV节目官网提供CCTV在线直播及中央电视台节目表预告等服务，中央电视台是中国重要的新闻舆论机构，现已开办众多频道及节目，拥有国内一流的播音员和主持人队伍。",
           "icon": "/assets/favicon_1759027804892.png",
           "enabled": true
+        },
+        {
+          "id": "1759027819096",
+          "title": "IPTVindex.com",
+          "href": "https://www.iptvindex.com/",
+          "description": "",
+          "icon": "/assets/favicon_1759027822140.png",
+          "enabled": true
         }
       ],
       "subCategories": []
