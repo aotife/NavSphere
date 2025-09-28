@@ -426,7 +426,16 @@
       "icon": "Brain",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1759046624591_yzp55lrcr",
+          "title": "Chatgpt",
+          "href": "https://chatgpt.com/?model=auto",
+          "description": "Chatgpt",
+          "icon": "/assets/favicon_1759046602357.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "c1392da6-b136-45f0-9be5-f1df3bd13a1b",
