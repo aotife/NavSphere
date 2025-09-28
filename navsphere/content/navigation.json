@@ -711,6 +711,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1759028283847",
+      "title": "常用工具",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
