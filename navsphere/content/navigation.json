@@ -157,6 +157,15 @@
       "subCategories": []
     },
     {
+      "id": "1759021108070",
+      "title": "学习",
+      "icon": "Flag",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1758111725350",
       "title": "站长开通的服务",
       "icon": "Heart",
@@ -244,15 +253,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1759021108070",
-      "title": "学习",
-      "icon": "Flag",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
