@@ -694,7 +694,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "2b098d4d-a5b2-40b6-8f53-f4a6e250ccb4",
+          "title": "办公工具",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1759028475200",
