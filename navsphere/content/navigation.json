@@ -678,7 +678,16 @@
           "icon": "Folder",
           "description": "破解软件分享",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1759028711645",
+              "title": "423Down",
+              "href": "https://www.423down.com/",
+              "description": "知名软件达人|423DOWN.COM,更新快、专注去广告类软件输出10年、个人IP品牌软件分享站",
+              "icon": "/assets/favicon_1759028714136.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "f201e279-3dfa-4816-b598-0a1674a36006",
