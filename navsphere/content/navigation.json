@@ -392,6 +392,14 @@
           "description": "摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！",
           "icon": "/assets/favicon_1759023344038.ico",
           "enabled": true
+        },
+        {
+          "id": "1759023352147",
+          "title": "JIKE",
+          "href": "https://jike.info/",
+          "description": "一群小伙伴共同分享各种优惠消息,福利活动,免费资源的和谐社区",
+          "icon": "/assets/favicon_1759023361769.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
