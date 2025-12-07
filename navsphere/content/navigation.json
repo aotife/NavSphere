@@ -482,6 +482,14 @@
               "description": "问小白 - 顶级大模型免费使用，Deepseek R1/V3/V3.1、问小白5对标Openai-GPT5，支持AI联网搜索、AI学术搜索，Deep Research，AI图片编辑和生成，AI 智能体情感陪伴",
               "icon": "/assets/favicon_1759023939528.png",
               "enabled": true
+            },
+            {
+              "id": "1765116020408",
+              "title": "阿里千问",
+              "href": "https://www.qianwen.com/",
+              "description": "访问 www.qianwen.com",
+              "icon": "/assets/favicon_1765116037892.png",
+              "enabled": true
             }
           ]
         },
