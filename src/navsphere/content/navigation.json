@@ -210,6 +210,14 @@
               "description": "访问 www.runningcheese.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.runningcheese.com",
               "enabled": true
+            },
+            {
+              "id": "site_1779351364824_npaw9l0hj",
+              "title": "sysin | SYStem INside | 软件与技术分享",
+              "href": "https://sysin.org/",
+              "description": "sysin | SYStem INside | 软件与技术分享",
+              "icon": "/assets/favicon_1779351354960.png",
+              "enabled": true
             }
           ]
         },
