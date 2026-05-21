@@ -987,10 +987,10 @@
         },
         {
           "id": "site_14_11",
-          "title": "免费图床",
+          "title": "Telegraph-Image|免费图床",
           "href": "https://tg-img.chjina.com/",
-          "description": "Telegraph图床",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tg-img.chjina.com",
+          "description": "免费图床，基于Telegraph的图片上传工具",
+          "icon": "/assets/favicon_1779353704659.ico",
           "enabled": true
         },
         {
