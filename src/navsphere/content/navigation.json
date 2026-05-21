@@ -810,14 +810,6 @@
           "description": "Windows-Office密钥分享",
           "icon": "https://api.xinac.net/icon/?url=webact.185.hk",
           "enabled": true
-        },
-        {
-          "id": "site_11_2",
-          "title": "密钥分享",
-          "href": "https://pkeytools.azurewebsites.net/ShareKeys",
-          "description": "Windows-Office密钥分享",
-          "icon": "https://api.xinac.net/icon/?url=pkeytools.azurewebsites.net",
-          "enabled": true
         }
       ],
       "subCategories": []
