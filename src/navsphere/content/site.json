@@ -1,8 +1,8 @@
 {
   "basic": {
-    "title": "NavSphere导航",
-    "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-    "keywords": "设计导航,设计资源,设计工具,设计素材,设计教程"
+    "title": "chjina 导航",
+    "description": "一个简洁实用的个人导航页，旨在一站式聚合各类优质网络资源，帮用户快速直达目标站点、提升上网效率",
+    "keywords": "实用网址导航，精品资源导航，全网资源合集，上网主页，免费工具导航"
   },
   "appearance": {
     "logo": "/assets/images/alogo.webp",
