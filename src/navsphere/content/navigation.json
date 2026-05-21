@@ -128,6 +128,14 @@
           "description": "Linux命令大全",
           "icon": "/assets/favicon_1779350364723.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779350412513_xz3xgitdb",
+          "title": "终身教育平台",
+          "href": "https://le.ouchn.cn/#/home",
+          "description": "",
+          "icon": "/assets/favicon_1779350402995.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
