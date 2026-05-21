@@ -206,6 +206,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "e53db139-7500-474d-aba6-a41de931f3e0",
+          "title": "电视直播",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
