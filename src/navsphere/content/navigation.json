@@ -680,14 +680,6 @@
           "enabled": true
         },
         {
-          "id": "site_9_8",
-          "title": "分享者",
-          "href": "https://www.sharerw.com/",
-          "description": "精品软件,互联网资源分享",
-          "icon": "https://api.xinac.net/icon/?url=www.sharerw.com",
-          "enabled": true
-        },
-        {
           "id": "site_9_9",
           "title": "软仓",
           "href": "https://ruancang.net/#/sim",
