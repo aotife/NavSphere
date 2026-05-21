@@ -656,14 +656,6 @@
           "enabled": true
         },
         {
-          "id": "site_9_4",
-          "title": "微当下载",
-          "href": "http://www.weidown.com/",
-          "description": "免费的软件下载站",
-          "icon": "https://api.xinac.net/icon/?url=www.weidown.com",
-          "enabled": true
-        },
-        {
           "id": "site_9_5",
           "title": "423down",
           "href": "https://www.423down.com/",
