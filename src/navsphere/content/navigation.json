@@ -211,6 +211,14 @@
               "description": "恩山无线论坛-无线路由器爱好者的乐园",
               "icon": "/assets/favicon_1779351091246.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351127376_h3hxd8vyd",
+              "title": "HomeAssistant论坛 ",
+              "href": "https://bbs.hassbian.com/",
+              "description": "『瀚思彼岸』Home Assistant智能家居技术论坛，分享Home Assistant技术，发布原创HomeAssistant教程，发布智能硬件DIY，让你尽情感受『智能家庭』的魅力！",
+              "icon": "/assets/favicon_1779351110986.png",
+              "enabled": true
             }
           ]
         }
