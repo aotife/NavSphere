@@ -120,6 +120,14 @@
           "description": "简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。",
           "icon": "/assets/favicon_1779350349782.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779350383705_qjsqnd6as",
+          "title": "Linux命令",
+          "href": "https://www.linuxcool.com/",
+          "description": "Linux命令大全",
+          "icon": "/assets/favicon_1779350364723.png",
+          "enabled": true
         }
       ],
       "subCategories": []
