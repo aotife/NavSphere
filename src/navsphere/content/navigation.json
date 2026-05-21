@@ -997,8 +997,8 @@
           "id": "site_14_12",
           "title": "在线工具箱",
           "href": "https://tools.chjina.com/",
-          "description": "一个在线工具箱",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tools.chjina.com",
+          "description": "",
+          "icon": "https://tools.chjina.com/favicon.ico",
           "enabled": true
         },
         {
