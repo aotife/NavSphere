@@ -80,6 +80,14 @@
           "description": "",
           "icon": "/assets/favicon_1779349715476.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349742672_vla1gl4xg",
+          "title": "Runoob",
+          "href": "https://runoob.com/",
+          "description": "",
+          "icon": "/assets/favicon_1779349730981.png",
+          "enabled": true
         }
       ],
       "subCategories": []
