@@ -35,6 +35,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1779348688741",
+      "title": "影视资源",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
