@@ -931,9 +931,9 @@
         },
         {
           "id": "site_14_4",
-          "title": "RSSHub",
+          "title": "Welcome to RSSHub!",
           "href": "https://rsshub.chjina.com",
-          "description": "万物皆可RSS",
+          "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=rsshub.chjina.com",
           "enabled": true
         },
