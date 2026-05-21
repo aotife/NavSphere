@@ -982,7 +982,7 @@
           "title": "在线工具箱",
           "href": "https://tools.chjina.com/",
           "description": "",
-          "icon": "https://tools.chjina.com/favicon.ico",
+          "icon": "https://api.xinac.net/icon/?url=https://tools.chjina.com/",
           "enabled": true
         },
         {
