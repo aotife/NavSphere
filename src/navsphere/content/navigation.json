@@ -96,6 +96,14 @@
           "description": "SegmentFault 思否是中国专业的开发者技术社区。我们以技术问答、技术博客、技术课程、技术资讯为核心的产品形态，为开发者提供纯粹、高质的技术交流平台。",
           "icon": "/assets/favicon_1779349803105.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1779350025128_1szqvuh58",
+          "title": "Freebuf",
+          "href": "https://www.freebuf.com/",
+          "description": "freebuf网络安全行业门户",
+          "icon": "/assets/favicon_1779349986484.png",
+          "enabled": true
         }
       ],
       "subCategories": []
