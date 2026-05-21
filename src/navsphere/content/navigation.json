@@ -104,6 +104,14 @@
           "description": "freebuf网络安全行业门户",
           "icon": "/assets/favicon_1779349986484.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779350067120_oeb6w7e4p",
+          "title": "安全客",
+          "href": "https://www.anquanke.com/",
+          "description": "",
+          "icon": "/assets/favicon_1779350045825.png",
+          "enabled": true
         }
       ],
       "subCategories": []
