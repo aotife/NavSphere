@@ -71,6 +71,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1779349235679",
+      "title": "站长开通的服务",
+      "icon": "Heart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
