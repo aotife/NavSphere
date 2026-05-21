@@ -186,6 +186,14 @@
               "description": "",
               "icon": "/assets/favicon_1779351138586.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351210625_kvf6xr8c7",
+              "title": "吴昊博客 - IT技术经验记录分享",
+              "href": "https://blog.whsir.com/",
+              "description": "资深Linux运维工程师，专注于Linux平台的系统维护以及软件应用，记录自己学习及工作中的心得经验。",
+              "icon": "/assets/favicon_1779351198901.png",
+              "enabled": true
             }
           ]
         },
