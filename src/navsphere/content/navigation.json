@@ -1,418 +1,1012 @@
 {
   "navigationItems": [
     {
-      "id": "1779348607385",
+      "id": "cat_1",
       "title": "技术",
       "icon": "Code",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "site_1779349490433_42dx612pw",
-          "title": "Oschina开源中国",
+          "id": "site_1_1",
+          "title": "开源中国",
           "href": "https://oschina.net/",
           "description": "程序员集散地",
-          "icon": "/assets/favicon_1779349472732.png",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349519064_jjotfgnh1",
+          "id": "site_1_2",
           "title": "V2EX",
           "href": "https://v2ex.com",
-          "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
-          "icon": "/assets/favicon_1779349501717.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349545042_ch94ramzc",
-          "title": "NodeSeek",
+          "id": "site_1_3",
+          "title": "Nodeseek",
           "href": "https://www.nodeseek.com/",
           "description": "",
-          "icon": "/assets/favicon_1779349528203.png",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349565232_ek0g39x2y",
-          "title": "Linux",
+          "id": "site_1_4",
+          "title": "Linux.do",
           "href": "https://www.linux.do",
           "description": "",
-          "icon": "/assets/favicon_1779349553722.png",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349582975_8bx9h1kt7",
-          "title": "Csdn",
+          "id": "site_1_5",
+          "title": "CSDN技术社区",
           "href": "https://csdn.net/",
-          "description": "",
-          "icon": "/assets/favicon_1779349573063.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349603264_xe4pdd5iv",
-          "title": "2Libra",
-          "href": "https://2libra.com/",
-          "description": "「 2Libra 」，To Balance，走向平衡，一个以工作与生活平衡为核心的社区。",
-          "icon": "/assets/favicon_1779349596269.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1779349622208_ph9re6ywh",
-          "title": "GitHub",
+          "id": "site_1_6",
+          "title": "Github",
           "href": "https://github.com/",
-          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
-          "icon": "/assets/favicon_1779349613669.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         }
       ],
       "subCategories": []
     },
     {
-      "id": "1779348623989",
+      "id": "cat_2",
       "title": "学习",
-      "icon": "Flag",
+      "icon": "GraduationCap",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "site_1779349724817_5mbxtgok6",
-          "title": "W3school",
+          "id": "site_2_1",
+          "title": "W3school在线教程",
           "href": "https://w3school.com.cn/",
-          "description": "",
-          "icon": "/assets/favicon_1779349715476.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349742672_vla1gl4xg",
-          "title": "Runoob",
+          "id": "site_2_2",
+          "title": "菜鸟教程",
           "href": "https://runoob.com/",
-          "description": "",
-          "icon": "/assets/favicon_1779349730981.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779349814720_iygicwcbb",
-          "title": "SegmentFault 思否",
+          "id": "site_2_3",
+          "title": "思否社区",
           "href": "https://segmentfault.com/",
-          "description": "SegmentFault 思否是中国专业的开发者技术社区。我们以技术问答、技术博客、技术课程、技术资讯为核心的产品形态，为开发者提供纯粹、高质的技术交流平台。",
-          "icon": "/assets/favicon_1779349803105.ico",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779350025128_1szqvuh58",
-          "title": "Freebuf",
-          "href": "https://www.freebuf.com/",
-          "description": "freebuf网络安全行业门户",
-          "icon": "/assets/favicon_1779349986484.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1779350067120_oeb6w7e4p",
-          "title": "安全客",
-          "href": "https://www.anquanke.com/",
-          "description": "",
-          "icon": "/assets/favicon_1779350045825.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1779350358416_rc38bffar",
-          "title": "简书 - 创作你的创作",
+          "id": "site_2_4",
+          "title": "简书",
           "href": "https://jianshu.com/",
-          "description": "简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。",
-          "icon": "/assets/favicon_1779350349782.png",
+          "description": "程序员集散地",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779350383705_qjsqnd6as",
+          "id": "site_2_5",
           "title": "Linux命令",
           "href": "https://www.linuxcool.com/",
           "description": "Linux命令大全",
-          "icon": "/assets/favicon_1779350364723.png",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779350412513_xz3xgitdb",
+          "id": "site_2_6",
           "title": "终身教育平台",
           "href": "https://le.ouchn.cn/#/home",
-          "description": "",
-          "icon": "/assets/favicon_1779350402995.ico",
+          "description": "国家开发大学",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779350700232_fadkyw1mn",
-          "title": "Bilibili",
+          "id": "site_2_7",
+          "title": "哔哩哔哩",
           "href": "https://www.bilibili.com/",
-          "description": "",
-          "icon": "/assets/favicon_1779350690131.png",
+          "description": "B站视频平台",
+          "icon": "",
           "enabled": true
         }
       ],
       "subCategories": []
     },
     {
-      "id": "1779348642581",
+      "id": "cat_3",
       "title": "博客/论坛",
       "icon": "Users",
       "description": "",
       "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "e4d30c90-60b1-46d0-a0d6-ea1e84c5ab47",
-          "title": "博客",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1779350928849_gr4zfyvgd",
-              "title": "如有乐享",
-              "href": "https://51.ruyo.net/",
-              "description": "分享是一种美德，是一种态度",
-              "icon": "/assets/favicon_1779350903745.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779350965616_thl7gcqcl",
-              "title": "GXNAS 博客",
-              "href": "https://wp.gxnas.com/",
-              "description": "GXNAS 博客",
-              "icon": "/assets/favicon_1779350950257.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351155680_5bi02fi8x",
-              "title": "丁辉博客",
-              "href": "https://www.dinghui.org/",
-              "description": "",
-              "icon": "/assets/favicon_1779351138586.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351210625_kvf6xr8c7",
-              "title": "吴昊博客 - IT技术经验记录分享",
-              "href": "https://blog.whsir.com/",
-              "description": "资深Linux运维工程师，专注于Linux平台的系统维护以及软件应用，记录自己学习及工作中的心得经验。",
-              "icon": "/assets/favicon_1779351198901.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351257800_2u38d3qa2",
-              "title": "思有云",
-              "href": "https://www.ioiox.com/\",",
-              "description": "",
-              "icon": "/assets/favicon_1779351236286.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351285152_81ku8ge0u",
-              "title": "奔跑中的奶酪",
-              "href": "https://www.runningcheese.com/\",",
-              "description": "访问 www.runningcheese.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.runningcheese.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351364824_npaw9l0hj",
-              "title": "sysin | SYStem INside | 软件与技术分享",
-              "href": "https://sysin.org/",
-              "description": "sysin | SYStem INside | 软件与技术分享",
-              "icon": "/assets/favicon_1779351354960.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351405840_viuuju0il",
-              "title": "缙哥哥-分享缙哥哥的",
-              "href": "https://www.dujin.org/",
-              "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物分享 - 原(摩尼教 - 继承火的意志)",
-              "icon": "/assets/favicon_1779351381723.jpg",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "aaf80dc9-ce96-4983-88aa-55ccb56763f9",
-          "title": "论坛",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1779350943592_lbroepb1e",
-              "title": "福利吧-分享你的福利吧",
-              "href": "https://fuliba2023.net/",
-              "description": "福利吧是一个分享福利的平台，通过本站将一些好玩的、好看的、新鲜资讯分享给大家。",
-              "icon": "/assets/favicon_1779350933913.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1779350991360_p3cu09nu7",
-              "title": "吾爱破解",
-              "href": "https://www.52pojie.cn/",
-              "description": "国内安全破解，病毒分析论坛",
-              "icon": "/assets/favicon_1779350973210.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351105962_k52rszfj1",
-              "title": "恩山无线论坛",
-              "href": "https://www.right.com.cn/forum/",
-              "description": "恩山无线论坛-无线路由器爱好者的乐园",
-              "icon": "/assets/favicon_1779351091246.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351127376_h3hxd8vyd",
-              "title": "HomeAssistant论坛 ",
-              "href": "https://bbs.hassbian.com/",
-              "description": "『瀚思彼岸』Home Assistant智能家居技术论坛，分享Home Assistant技术，发布原创HomeAssistant教程，发布智能硬件DIY，让你尽情感受『智能家庭』的魅力！",
-              "icon": "/assets/favicon_1779351110986.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1779351324186_88pjdxqel",
-              "title": "全球主机交流论坛",
-              "href": "https://hostloc.com/",
-              "description": "全球主机交流论坛",
-              "icon": "/assets/favicon_1779351305132.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1779348666789",
-      "title": "资讯",
-      "icon": "Briefcase",
-      "description": "",
-      "enabled": true,
       "items": [
         {
-          "id": "site_1779351432528_6xoxdy0i9",
-          "title": "今日热榜官网",
-          "href": "https://tophub.today",
-          "description": "今日热榜提供各站热榜聚合：微信、今日头条、百度、知乎、V2EX、微博、贴吧、豆瓣、天涯、虎扑、Github、抖音...追踪全网热点、简单高效阅读。",
-          "icon": "/assets/favicon_1779351420566.png",
+          "id": "site_3_1",
+          "title": "如有乐享",
+          "href": "https://51.ruyo.net/",
+          "description": "分享是一种美德，是一种态度",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779351447985_4taxgngp0",
-          "title": "摸摸鱼热榜",
-          "href": "https://momoyu.cc/",
-          "description": "摸摸鱼提供了各大热门网站的聚合信息、热榜、榜单,包括了知乎、微博、虎扑、V2EX、贴吧、抖音、今日头条等等,一分钟轻松了解全网最新资讯,这不是摸鱼,这叫做关注世界动态变化！",
-          "icon": "/assets/favicon_1779351438758.ico",
+          "id": "site_3_2",
+          "title": "福利吧",
+          "href": "https://fuliba2023.net/",
+          "description": "分享你的福利",
+          "icon": "",
           "enabled": true
         },
         {
-          "id": "site_1779351469615_d4hyy7296",
-          "title": "首页 | JIKE",
-          "href": "https://jike.info/",
-          "description": "一群小伙伴共同分享各种优惠消息,福利活动,免费资源的和谐社区",
-          "icon": "/assets/favicon_1779351456524.ico",
+          "id": "site_3_3",
+          "title": "GXNAS 博客",
+          "href": "https://wp.gxnas.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_4",
+          "title": "吾爱破解",
+          "href": "https://www.52pojie.cn/",
+          "description": "国内安全破解，病毒分析论坛",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_5",
+          "title": "恩山无线论坛",
+          "href": "https://www.right.com.cn/forum/",
+          "description": "无线路由器爱好者的圣地",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_6",
+          "title": "瀚思彼岸",
+          "href": "https://bbs.hassbian.com/",
+          "description": "智能家居论坛",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_7",
+          "title": "王哥哥",
+          "href": "https://www.azurew.com/",
+          "description": "Vmware系统集成大佬",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_8",
+          "title": "丁辉博客",
+          "href": "https://www.dinghui.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_9",
+          "title": "爱开源",
+          "href": "https://www.aikaiyuan.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_10",
+          "title": "吴昊博客",
+          "href": "https://blog.whsir.com/",
+          "description": "IT技术经验记录分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_11",
+          "title": "思有云",
+          "href": "https://www.ioiox.com/",
+          "description": "个人博客",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_12",
+          "title": "奔跑中的奶酪",
+          "href": "https://www.runningcheese.com/",
+          "description": "个人博客",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_13",
+          "title": "全球主机交流论坛",
+          "href": "https://hostloc.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_14",
+          "title": "SYStem INside",
+          "href": "https://sysin.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_3_15",
+          "title": "缙哥哥的博客",
+          "href": "https://www.dujin.org/",
+          "description": "",
+          "icon": "",
           "enabled": true
         }
       ],
       "subCategories": []
     },
     {
-      "id": "1779348688741",
-      "title": "影视资源",
-      "icon": "Video",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "3c1a32fa-03d2-4cfd-b3cc-259b9811596d",
-          "title": "在线观影",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "e3322d2f-8962-46f5-861c-ef69b830d4a5",
-          "title": "影视下载",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "e53db139-7500-474d-aba6-a41de931f3e0",
-          "title": "电视直播",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "1779348706502",
-      "title": "音乐",
-      "icon": "Music",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1779348753341",
-      "title": "常用工具",
-      "icon": "Box",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1779348942645",
-      "title": "资源下载",
-      "icon": "Folder",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "5bb8cbe3-f7e3-4b1c-adf3-86598177d47d",
-          "title": "Windows 下载",
-          "icon": "Database",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "596fdf81-9a09-4b68-889d-369e861fcf3a",
-          "title": "软件下载",
-          "icon": "Database",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "293f5003-c093-4918-af7b-99815e57f981",
-          "title": "苹果电脑资源",
-          "icon": "Database",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "1779349235679",
-      "title": "站长开通的服务",
-      "icon": "Heart",
+      "id": "cat_4",
+      "title": "资讯",
+      "icon": "Rss",
       "description": "",
       "enabled": true,
       "items": [
         {
-          "id": "site_1779351172928_5vvztl8ft",
-          "title": "无为小站",
-          "href": "https://chjina.com",
-          "description": "分享技术见解、编程技巧、以及个人成长故事的平台",
-          "icon": "/assets/favicon_1779351160214.ico",
+          "id": "site_4_1",
+          "title": "今日热榜",
+          "href": "https://tophub.today/",
+          "description": "各类热榜",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_4_2",
+          "title": "摸摸鱼",
+          "href": "https://momoyu.cc/",
+          "description": "摸摸鱼热榜",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_4_3",
+          "title": "JIKE",
+          "href": "https://jike.info/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_4_4",
+          "title": "潮流周刊",
+          "href": "https://weekly.tw93.fun/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_5",
+      "title": "人工智能",
+      "icon": "Bot",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_5_1",
+          "title": "poe.com",
+          "href": "https://poe.com/",
+          "description": "国外-不能直接访问 集成多家AI",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_2",
+          "title": "Vercel",
+          "href": "https://play.vercel.ai//",
+          "description": "国外-国内直连访问 免登录",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_3",
+          "title": "讯飞星火",
+          "href": "https://xinghuo.xfyun.cn/",
+          "description": "国内-科大讯飞的AI需申请",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_4",
+          "title": "New Bing",
+          "href": "https://bing.com/new",
+          "description": "国外-国内不能直接使用",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_5",
+          "title": "Slack",
+          "href": "https://slack.com",
+          "description": "国外-国内直连访问",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_6",
+          "title": "kimi",
+          "href": "https://kimi.moonshot.cn/",
+          "description": "国内-需注册",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_7",
+          "title": "字节跳动-豆包",
+          "href": "https://www.doubao.com/chat/",
+          "description": "国内",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_5_8",
+          "title": "ChatGPT 的镜像网站",
+          "href": "https://sharedchat.cn/",
+          "description": "国外",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_6",
+      "title": "影视",
+      "icon": "Video",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_6_1",
+          "title": "片库",
+          "href": "https://www.pknull.com/",
+          "description": "全网高清影视聚合下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_2",
+          "title": "vidhub",
+          "href": "https://vidhub.tv/",
+          "description": "vidhub",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_3",
+          "title": "不太灵影视",
+          "href": "https://www.2bt0.com/",
+          "description": "不太灵影视",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_4",
+          "title": "SeedHub",
+          "href": "https://www.seedhub.cc/",
+          "description": "SeedHub",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_5",
+          "title": "91毒蛇电影",
+          "href": "https://www.duse1.com:51111/",
+          "description": "发布地址https://dl.duse0.com/",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_6",
+          "title": "6V电影",
+          "href": "https://www.ai66.cc/",
+          "description": "新版6V电影",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_7",
+          "title": "BT之家",
+          "href": "https://www.1lou.cc/",
+          "description": "BT电影下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_8",
+          "title": "4KHDR世界",
+          "href": "https://4khdr.cn/",
+          "description": "4K电影下载-需注册",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_9",
+          "title": "比特大雄",
+          "href": "https://www.btdx8.com/",
+          "description": "BT电影天堂",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_10",
+          "title": "MP4电影",
+          "href": "https://www.domp4.cc/",
+          "description": "最新电影下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_11",
+          "title": "音范思",
+          "href": "https://www.yinfans.me/",
+          "description": "电影下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_12",
+          "title": "Btnull",
+          "href": "https://www.btnull.org/",
+          "description": "电影下载-需登录",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_13",
+          "title": "天空影视",
+          "href": "https://www.tkys.tv/",
+          "description": "最新电影下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_14",
+          "title": "淘片资源网",
+          "href": "https://www.taopianzy.com/",
+          "description": "采集资源站",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_15",
+          "title": "网络电视",
+          "href": "http://lu1.cc/itv/",
+          "description": "在线电视ipv6资源",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_16",
+          "title": "CCTV网络电视",
+          "href": "https://tv.cctv.com/live/",
+          "description": "CCTV在线电视直播",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_17",
+          "title": "电视直播 影视点播",
+          "href": "https://www.iptvindex.com/",
+          "description": "分享各类直播和点播",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_6_18",
+          "title": "电视直播源",
+          "href": "https://m3u.ibert.me/",
+          "description": "分享各类直播源",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_7",
+      "title": "音乐",
+      "icon": "Music",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_7_1",
+          "title": "小众音乐",
+          "href": "https://www.aekun.com/",
+          "description": "AeKun用音乐聆听彼此",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_7_2",
+          "title": "网易云音乐",
+          "href": "https://music.163.com/",
+          "description": "网易云音乐",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_7_3",
+          "title": "斯奥音乐",
+          "href": "https://sao.fm/",
+          "description": "网络收音机",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_7_4",
+          "title": "音乐下载器",
+          "href": "http://music.vaiwan.com/",
+          "description": "免费下载音乐",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_7_5",
+          "title": "音乐下载器",
+          "href": "https://www.hifiti.com/",
+          "description": "需注册下载音乐",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_8",
+      "title": "常用工具",
+      "icon": "Clipboard",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_8_1",
+          "title": "图片压缩",
+          "href": "https://tinypng.com/cn/",
+          "description": "图片无损压缩",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_8_2",
+          "title": "苏打办公",
+          "href": "https://bangong.360.cn/",
+          "description": "360旗下办公导航",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_8_3",
+          "title": "帮小忙",
+          "href": "https://tool.browser.qq.com/",
+          "description": "QQ在线工具箱",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_8_4",
+          "title": "用药助手",
+          "href": "http://drugs.dxy.cn/",
+          "description": "用药助手",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_8_5",
+          "title": "知识检索",
+          "href": "https://www.cn-ki.net/",
+          "description": "知识检索",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_9",
+      "title": "资源下载",
+      "icon": "Download",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_9_1",
+          "title": "windows系统",
+          "href": "https://hellowindows.cn/#",
+          "description": "windows/office资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_2",
+          "title": "MSDN 我告诉你",
+          "href": "https://msdn.itellyou.cn/",
+          "description": "microsoft资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_3",
+          "title": "WZT的Techbench",
+          "href": "https://tb.rg-adguard.net/public.php?lang=zh-CN",
+          "description": "在Microsoft 服务器下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_4",
+          "title": "微当下载",
+          "href": "http://www.weidown.com/",
+          "description": "免费的软件下载站",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_5",
+          "title": "423down",
+          "href": "https://www.423down.com/",
+          "description": "更新快、专注去广告类软件",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_6",
+          "title": "果核剥壳",
+          "href": "https://www.ghxi.com/",
+          "description": "国内破解软件分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_7",
+          "title": "风软资源站",
+          "href": "https://www.ifengsoft.com/",
+          "description": "破解软件分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_8",
+          "title": "分享者",
+          "href": "https://www.sharerw.com/",
+          "description": "精品软件,互联网资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_9",
+          "title": "软仓",
+          "href": "https://ruancang.net/#/sim",
+          "description": "精品软件下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_10",
+          "title": "资源否",
+          "href": "https://www.zyfou.com/",
+          "description": "专注互联网免费资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_11",
+          "title": "lrepacks",
+          "href": "https://lrepacks.net/",
+          "description": "老毛子破解站",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_12",
+          "title": "俄罗斯m0nkrus",
+          "href": "https://w14.monkrus.ws/",
+          "description": "发布adobe破解资源",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_13",
+          "title": "俄罗斯KpoJIuK",
+          "href": "https://repack.me/",
+          "description": "老毛子破解站",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_14",
+          "title": "资源下载",
+          "href": "https://www.puresys.net/",
+          "description": "软件下载",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_15",
+          "title": "分享迷",
+          "href": "https://www.fenxm.com/",
+          "description": "分享优质软件",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_16",
+          "title": "异常教程",
+          "href": "https://www.exception.site/",
+          "description": "JetBrains破解",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_17",
+          "title": "MAC-Office",
+          "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
+          "description": "office_for_mac破解",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_9_18",
+          "title": "office_for_mac",
+          "href": "https://massgrave.dev/office_for_mac",
+          "description": "office_for_mac破解",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_10",
+      "title": "云盘",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_10_1",
+          "title": "阿里云盘",
+          "href": "https://www.pan666.cn/",
+          "description": "阿里云盘资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_10_2",
+          "title": "阿里云盘导航",
+          "href": "https://aliyun.panpanr.com/",
+          "description": "阿里云盘资源分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_10_3",
+          "title": "易搜",
+          "href": "https://yiso.fun/",
+          "description": "网盘资源搜索",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_11",
+      "title": "密钥分享",
+      "icon": "Wrench",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_11_1",
+          "title": "密钥分享",
+          "href": "https://webact.185.hk/sharedkey.php/",
+          "description": "Windows-Office密钥分享",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_11_2",
+          "title": "密钥分享",
+          "href": "https://pkeytools.azurewebsites.net/ShareKeys",
+          "description": "Windows-Office密钥分享",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_12",
+      "title": "导航",
+      "icon": "Monitor",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_12_1",
+          "title": "福利吧导航",
+          "href": "https://fuliba123.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_12_2",
+          "title": "缙哥哥导航",
+          "href": "https://www.dujin.org/navs",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_13",
+      "title": "工具",
+      "icon": "Wrench",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_13_1",
+          "title": "匿名邮箱",
+          "href": "https://mail.awsl.uk/",
+          "description": "支持登录",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_13_2",
+          "title": "IP地址查询",
+          "href": "https://ip.sy/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_13_3",
+          "title": "FinalShell 激活码在线生成",
+          "href": "https://finalshell.yapengz.cn/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_14",
+      "title": "本站开通的服务",
+      "icon": "Server",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_14_1",
+          "title": "NTP时间同步服务器",
+          "href": "https://chjina.com/ntp",
+          "description": "ntp.chjina.com",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_2",
+          "title": "KMS服务器",
+          "href": "http://chjina.com/kms",
+          "description": "kms.chjina.com",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_3",
+          "title": "网盘分享",
+          "href": "https://drive.chjina.com",
+          "description": "个人文件仓库",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_4",
+          "title": "RSSHub",
+          "href": "https://rsshub.chjina.com",
+          "description": "万物皆可RSS",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_5",
+          "title": "音乐",
+          "href": "https://music.chjina.com/",
+          "description": "YesPlayMusic",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_6",
+          "title": "GitHub代理",
+          "href": "https://gh.chjina.com/",
+          "description": "GitHub 文件加速",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_7",
+          "title": "Docker Hub代理",
+          "href": "https://dh.chjina.com/",
+          "description": "Docker Hub文件加速",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_8",
+          "title": "Aria2-WebUI",
+          "href": "https://an.chjina.com/",
+          "description": "AriaNg",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_9",
+          "title": "Wiki文档",
+          "href": "https://docs.chjina.com/",
+          "description": "个人知识文档库",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_10",
+          "title": "随机密码",
+          "href": "https://sjmm.chjina.com/",
+          "description": "随机密码生成器",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_11",
+          "title": "免费图床",
+          "href": "https://tg-img.chjina.com/",
+          "description": "Telegraph图床",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_12",
+          "title": "在线工具箱",
+          "href": "https://tools.chjina.com/",
+          "description": "一个在线工具箱",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "site_14_13",
+          "title": "临时邮件",
+          "href": "https://mail0.de5.net/",
+          "description": "匿名临时邮件",
+          "icon": "",
           "enabled": true
         }
       ],
