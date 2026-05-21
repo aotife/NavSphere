@@ -434,14 +434,6 @@
           "enabled": true
         },
         {
-          "id": "site_6_8",
-          "title": "4KHDR世界",
-          "href": "https://4khdr.cn/",
-          "description": "4K电影下载-需注册",
-          "icon": "https://api.xinac.net/icon/?url=4khdr.cn",
-          "enabled": true
-        },
-        {
           "id": "site_6_9",
           "title": "比特大雄",
           "href": "https://www.btdx8.com/",
