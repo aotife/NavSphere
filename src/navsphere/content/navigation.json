@@ -178,6 +178,14 @@
               "description": "GXNAS 博客",
               "icon": "/assets/favicon_1779350950257.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351155680_5bi02fi8x",
+              "title": "丁辉博客",
+              "href": "https://www.dinghui.org/",
+              "description": "",
+              "icon": "/assets/favicon_1779351138586.png",
+              "enabled": true
             }
           ]
         },
