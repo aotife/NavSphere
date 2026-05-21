@@ -46,6 +46,14 @@
           "description": "",
           "icon": "/assets/favicon_1779349573063.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349603264_xe4pdd5iv",
+          "title": "2Libra",
+          "href": "https://2libra.com/",
+          "description": "「 2Libra 」，To Balance，走向平衡，一个以工作与生活平衡为核心的社区。",
+          "icon": "/assets/favicon_1779349596269.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
