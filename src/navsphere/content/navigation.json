@@ -170,6 +170,14 @@
               "description": "分享是一种美德，是一种态度",
               "icon": "/assets/favicon_1779350903745.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779350965616_thl7gcqcl",
+              "title": "GXNAS 博客",
+              "href": "https://wp.gxnas.com/",
+              "description": "GXNAS 博客",
+              "icon": "/assets/favicon_1779350950257.png",
+              "enabled": true
             }
           ]
         },
