@@ -979,9 +979,9 @@
         },
         {
           "id": "site_14_10",
-          "title": "随机密码",
+          "title": "随机用户名与密码生成器",
           "href": "https://sjmm.chjina.com/",
-          "description": "随机密码生成器",
+          "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=sjmm.chjina.com",
           "enabled": true
         },
