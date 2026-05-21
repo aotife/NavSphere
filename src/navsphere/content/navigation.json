@@ -947,9 +947,9 @@
         },
         {
           "id": "site_14_6",
-          "title": "GitHub代理",
+          "title": "GitHub 文件加速",
           "href": "https://gh.chjina.com/",
-          "description": "GitHub 文件加速",
+          "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=gh.chjina.com",
           "enabled": true
         },
