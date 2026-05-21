@@ -971,9 +971,9 @@
         },
         {
           "id": "site_14_9",
-          "title": "首页 | chjina Wiki",
+          "title": "Wiki",
           "href": "https://docs.chjina.com/",
-          "description": "首页介绍",
+          "description": "",
           "icon": "/assets/favicon_1779353544064.png",
           "enabled": true
         },
