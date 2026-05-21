@@ -333,7 +333,16 @@
       "icon": "Heart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1779351172928_5vvztl8ft",
+          "title": "无为小站",
+          "href": "https://chjina.com",
+          "description": "分享技术见解、编程技巧、以及个人成长故事的平台",
+          "icon": "/assets/favicon_1779351160214.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
