@@ -22,6 +22,14 @@
           "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
           "icon": "/assets/favicon_1779349501717.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349545042_ch94ramzc",
+          "title": "NodeSeek",
+          "href": "https://www.nodeseek.com/",
+          "description": "",
+          "icon": "/assets/favicon_1779349528203.png",
+          "enabled": true
         }
       ],
       "subCategories": []
