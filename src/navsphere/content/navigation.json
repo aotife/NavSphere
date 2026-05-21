@@ -1003,10 +1003,10 @@
         },
         {
           "id": "site_14_13",
-          "title": "临时邮件",
+          "title": "匿名邮件",
           "href": "https://mail0.de5.net/",
-          "description": "匿名临时邮件",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail0.de5.net",
+          "description": "免费匿名邮件",
+          "icon": "/assets/favicon_1779353736665.png",
           "enabled": true
         }
       ],
