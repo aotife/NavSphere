@@ -258,6 +258,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "293f5003-c093-4918-af7b-99815e57f981",
+          "title": "苹果电脑资源",
+          "icon": "Database",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
