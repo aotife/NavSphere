@@ -14,6 +14,14 @@
           "description": "程序员集散地",
           "icon": "/assets/favicon_1779349472732.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349519064_jjotfgnh1",
+          "title": "V2EX",
+          "href": "https://v2ex.com",
+          "description": "创意工作者的社区。讨论编程、设计、硬件、游戏等令人激动的话题。",
+          "icon": "/assets/favicon_1779349501717.png",
+          "enabled": true
         }
       ],
       "subCategories": []
