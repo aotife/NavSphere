@@ -30,6 +30,14 @@
           "description": "",
           "icon": "/assets/favicon_1779349528203.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349565232_ek0g39x2y",
+          "title": "Linux",
+          "href": "https://www.linux.do",
+          "description": "",
+          "icon": "/assets/favicon_1779349553722.png",
+          "enabled": true
         }
       ],
       "subCategories": []
