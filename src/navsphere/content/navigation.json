@@ -38,6 +38,14 @@
           "description": "",
           "icon": "/assets/favicon_1779349553722.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779349582975_8bx9h1kt7",
+          "title": "Csdn",
+          "href": "https://csdn.net/",
+          "description": "",
+          "icon": "/assets/favicon_1779349573063.png",
+          "enabled": true
         }
       ],
       "subCategories": []
