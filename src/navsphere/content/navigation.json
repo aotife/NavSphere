@@ -202,6 +202,14 @@
               "description": "",
               "icon": "/assets/favicon_1779351236286.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351285152_81ku8ge0u",
+              "title": "奔跑中的奶酪",
+              "href": "https://www.runningcheese.com/\",",
+              "description": "访问 www.runningcheese.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.runningcheese.com",
+              "enabled": true
             }
           ]
         },
