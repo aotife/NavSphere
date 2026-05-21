@@ -1,3 +1,13 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1779348607385",
+      "title": "技术",
+      "icon": "Code",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    }
+  ]
 }
