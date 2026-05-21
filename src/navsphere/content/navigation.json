@@ -971,10 +971,10 @@
         },
         {
           "id": "site_14_9",
-          "title": "Wiki文档",
+          "title": "首页 | chjina Wiki",
           "href": "https://docs.chjina.com/",
-          "description": "个人知识文档库",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=docs.chjina.com",
+          "description": "首页介绍",
+          "icon": "/assets/favicon_1779353544064.png",
           "enabled": true
         },
         {
