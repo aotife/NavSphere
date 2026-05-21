@@ -190,7 +190,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3c1a32fa-03d2-4cfd-b3cc-259b9811596d",
+          "title": "在线观影",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1779348706502",
