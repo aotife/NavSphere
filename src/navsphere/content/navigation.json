@@ -136,6 +136,14 @@
           "description": "",
           "icon": "/assets/favicon_1779350402995.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1779350700232_fadkyw1mn",
+          "title": "Bilibili",
+          "href": "https://www.bilibili.com/",
+          "description": "",
+          "icon": "/assets/favicon_1779350690131.png",
+          "enabled": true
         }
       ],
       "subCategories": []
