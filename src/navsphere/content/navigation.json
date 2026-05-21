@@ -250,6 +250,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "596fdf81-9a09-4b68-889d-369e861fcf3a",
+          "title": "软件下载",
+          "icon": "Database",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
