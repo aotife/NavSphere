@@ -218,6 +218,14 @@
               "description": "sysin | SYStem INside | 软件与技术分享",
               "icon": "/assets/favicon_1779351354960.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351405840_viuuju0il",
+              "title": "缙哥哥-分享缙哥哥的",
+              "href": "https://www.dujin.org/",
+              "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物分享 - 原(摩尼教 - 继承火的意志)",
+              "icon": "/assets/favicon_1779351381723.jpg",
+              "enabled": true
             }
           ]
         },
