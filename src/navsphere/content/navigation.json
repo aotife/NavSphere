@@ -941,8 +941,8 @@
           "id": "site_14_5",
           "title": "音乐",
           "href": "https://music.chjina.com/",
-          "description": "YesPlayMusic",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.chjina.com",
+          "description": "",
+          "icon": "/assets/favicon_1779353630107.ic",
           "enabled": true
         },
         {
