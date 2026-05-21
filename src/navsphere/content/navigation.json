@@ -12,7 +12,7 @@
           "title": "开源中国",
           "href": "https://oschina.net/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=oschina.net",
           "enabled": true
         },
         {
@@ -20,7 +20,7 @@
           "title": "V2EX",
           "href": "https://v2ex.com",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=v2ex.com",
           "enabled": true
         },
         {
@@ -28,7 +28,7 @@
           "title": "Nodeseek",
           "href": "https://www.nodeseek.com/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.nodeseek.com",
           "enabled": true
         },
         {
@@ -36,7 +36,7 @@
           "title": "Linux.do",
           "href": "https://www.linux.do",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linux.do",
           "enabled": true
         },
         {
@@ -44,7 +44,7 @@
           "title": "CSDN技术社区",
           "href": "https://csdn.net/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=csdn.net",
           "enabled": true
         },
         {
@@ -52,7 +52,7 @@
           "title": "Github",
           "href": "https://github.com/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=github.com",
           "enabled": true
         }
       ],
@@ -70,7 +70,7 @@
           "title": "W3school在线教程",
           "href": "https://w3school.com.cn/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=w3school.com.cn",
           "enabled": true
         },
         {
@@ -78,7 +78,7 @@
           "title": "菜鸟教程",
           "href": "https://runoob.com/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=runoob.com",
           "enabled": true
         },
         {
@@ -86,7 +86,7 @@
           "title": "思否社区",
           "href": "https://segmentfault.com/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=segmentfault.com",
           "enabled": true
         },
         {
@@ -94,7 +94,7 @@
           "title": "简书",
           "href": "https://jianshu.com/",
           "description": "程序员集散地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jianshu.com",
           "enabled": true
         },
         {
@@ -102,7 +102,7 @@
           "title": "Linux命令",
           "href": "https://www.linuxcool.com/",
           "description": "Linux命令大全",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.linuxcool.com",
           "enabled": true
         },
         {
@@ -110,7 +110,7 @@
           "title": "终身教育平台",
           "href": "https://le.ouchn.cn/#/home",
           "description": "国家开发大学",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=le.ouchn.cn",
           "enabled": true
         },
         {
@@ -118,7 +118,7 @@
           "title": "哔哩哔哩",
           "href": "https://www.bilibili.com/",
           "description": "B站视频平台",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.bilibili.com",
           "enabled": true
         }
       ],
@@ -136,7 +136,7 @@
           "title": "如有乐享",
           "href": "https://51.ruyo.net/",
           "description": "分享是一种美德，是一种态度",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=51.ruyo.net",
           "enabled": true
         },
         {
@@ -144,7 +144,7 @@
           "title": "福利吧",
           "href": "https://fuliba2023.net/",
           "description": "分享你的福利",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fuliba2023.net",
           "enabled": true
         },
         {
@@ -152,7 +152,7 @@
           "title": "GXNAS 博客",
           "href": "https://wp.gxnas.com/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wp.gxnas.com",
           "enabled": true
         },
         {
@@ -160,7 +160,7 @@
           "title": "吾爱破解",
           "href": "https://www.52pojie.cn/",
           "description": "国内安全破解，病毒分析论坛",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.52pojie.cn",
           "enabled": true
         },
         {
@@ -168,7 +168,7 @@
           "title": "恩山无线论坛",
           "href": "https://www.right.com.cn/forum/",
           "description": "无线路由器爱好者的圣地",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.right.com.cn",
           "enabled": true
         },
         {
@@ -176,7 +176,7 @@
           "title": "瀚思彼岸",
           "href": "https://bbs.hassbian.com/",
           "description": "智能家居论坛",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.hassbian.com",
           "enabled": true
         },
         {
@@ -184,7 +184,7 @@
           "title": "王哥哥",
           "href": "https://www.azurew.com/",
           "description": "Vmware系统集成大佬",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.azurew.com",
           "enabled": true
         },
         {
@@ -192,7 +192,7 @@
           "title": "丁辉博客",
           "href": "https://www.dinghui.org/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dinghui.org",
           "enabled": true
         },
         {
@@ -200,7 +200,7 @@
           "title": "爱开源",
           "href": "https://www.aikaiyuan.com/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aikaiyuan.com",
           "enabled": true
         },
         {
@@ -208,7 +208,7 @@
           "title": "吴昊博客",
           "href": "https://blog.whsir.com/",
           "description": "IT技术经验记录分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=blog.whsir.com",
           "enabled": true
         },
         {
@@ -216,7 +216,7 @@
           "title": "思有云",
           "href": "https://www.ioiox.com/",
           "description": "个人博客",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ioiox.com",
           "enabled": true
         },
         {
@@ -224,7 +224,7 @@
           "title": "奔跑中的奶酪",
           "href": "https://www.runningcheese.com/",
           "description": "个人博客",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.runningcheese.com",
           "enabled": true
         },
         {
@@ -232,7 +232,7 @@
           "title": "全球主机交流论坛",
           "href": "https://hostloc.com/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=hostloc.com",
           "enabled": true
         },
         {
@@ -240,7 +240,7 @@
           "title": "SYStem INside",
           "href": "https://sysin.org/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sysin.org",
           "enabled": true
         },
         {
@@ -248,7 +248,7 @@
           "title": "缙哥哥的博客",
           "href": "https://www.dujin.org/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dujin.org",
           "enabled": true
         }
       ],
@@ -266,7 +266,7 @@
           "title": "今日热榜",
           "href": "https://tophub.today/",
           "description": "各类热榜",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tophub.today",
           "enabled": true
         },
         {
@@ -274,7 +274,7 @@
           "title": "摸摸鱼",
           "href": "https://momoyu.cc/",
           "description": "摸摸鱼热榜",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=momoyu.cc",
           "enabled": true
         },
         {
@@ -282,7 +282,7 @@
           "title": "JIKE",
           "href": "https://jike.info/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jike.info",
           "enabled": true
         },
         {
@@ -290,7 +290,7 @@
           "title": "潮流周刊",
           "href": "https://weekly.tw93.fun/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=weekly.tw93.fun",
           "enabled": true
         }
       ],
@@ -308,7 +308,7 @@
           "title": "poe.com",
           "href": "https://poe.com/",
           "description": "国外-不能直接访问 集成多家AI",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=poe.com",
           "enabled": true
         },
         {
@@ -316,7 +316,7 @@
           "title": "Vercel",
           "href": "https://play.vercel.ai//",
           "description": "国外-国内直连访问 免登录",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=play.vercel.ai",
           "enabled": true
         },
         {
@@ -324,7 +324,7 @@
           "title": "讯飞星火",
           "href": "https://xinghuo.xfyun.cn/",
           "description": "国内-科大讯飞的AI需申请",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xinghuo.xfyun.cn",
           "enabled": true
         },
         {
@@ -332,7 +332,7 @@
           "title": "New Bing",
           "href": "https://bing.com/new",
           "description": "国外-国内不能直接使用",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bing.com",
           "enabled": true
         },
         {
@@ -340,7 +340,7 @@
           "title": "Slack",
           "href": "https://slack.com",
           "description": "国外-国内直连访问",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=slack.com",
           "enabled": true
         },
         {
@@ -348,7 +348,7 @@
           "title": "kimi",
           "href": "https://kimi.moonshot.cn/",
           "description": "国内-需注册",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=kimi.moonshot.cn",
           "enabled": true
         },
         {
@@ -356,7 +356,7 @@
           "title": "字节跳动-豆包",
           "href": "https://www.doubao.com/chat/",
           "description": "国内",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.doubao.com",
           "enabled": true
         },
         {
@@ -364,7 +364,7 @@
           "title": "ChatGPT 的镜像网站",
           "href": "https://sharedchat.cn/",
           "description": "国外",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sharedchat.cn",
           "enabled": true
         }
       ],
@@ -382,7 +382,7 @@
           "title": "片库",
           "href": "https://www.pknull.com/",
           "description": "全网高清影视聚合下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pknull.com",
           "enabled": true
         },
         {
@@ -390,7 +390,7 @@
           "title": "vidhub",
           "href": "https://vidhub.tv/",
           "description": "vidhub",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=vidhub.tv",
           "enabled": true
         },
         {
@@ -398,7 +398,7 @@
           "title": "不太灵影视",
           "href": "https://www.2bt0.com/",
           "description": "不太灵影视",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.2bt0.com",
           "enabled": true
         },
         {
@@ -406,7 +406,7 @@
           "title": "SeedHub",
           "href": "https://www.seedhub.cc/",
           "description": "SeedHub",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.seedhub.cc",
           "enabled": true
         },
         {
@@ -414,7 +414,7 @@
           "title": "91毒蛇电影",
           "href": "https://www.duse1.com:51111/",
           "description": "发布地址https://dl.duse0.com/",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.duse1.com",
           "enabled": true
         },
         {
@@ -422,7 +422,7 @@
           "title": "6V电影",
           "href": "https://www.ai66.cc/",
           "description": "新版6V电影",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ai66.cc",
           "enabled": true
         },
         {
@@ -430,7 +430,7 @@
           "title": "BT之家",
           "href": "https://www.1lou.cc/",
           "description": "BT电影下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.1lou.cc",
           "enabled": true
         },
         {
@@ -438,7 +438,7 @@
           "title": "4KHDR世界",
           "href": "https://4khdr.cn/",
           "description": "4K电影下载-需注册",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=4khdr.cn",
           "enabled": true
         },
         {
@@ -446,7 +446,7 @@
           "title": "比特大雄",
           "href": "https://www.btdx8.com/",
           "description": "BT电影天堂",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.btdx8.com",
           "enabled": true
         },
         {
@@ -454,7 +454,7 @@
           "title": "MP4电影",
           "href": "https://www.domp4.cc/",
           "description": "最新电影下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.domp4.cc",
           "enabled": true
         },
         {
@@ -462,7 +462,7 @@
           "title": "音范思",
           "href": "https://www.yinfans.me/",
           "description": "电影下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yinfans.me",
           "enabled": true
         },
         {
@@ -470,7 +470,7 @@
           "title": "Btnull",
           "href": "https://www.btnull.org/",
           "description": "电影下载-需登录",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.btnull.org",
           "enabled": true
         },
         {
@@ -478,7 +478,7 @@
           "title": "天空影视",
           "href": "https://www.tkys.tv/",
           "description": "最新电影下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.tkys.tv",
           "enabled": true
         },
         {
@@ -486,7 +486,7 @@
           "title": "淘片资源网",
           "href": "https://www.taopianzy.com/",
           "description": "采集资源站",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.taopianzy.com",
           "enabled": true
         },
         {
@@ -494,7 +494,7 @@
           "title": "网络电视",
           "href": "http://lu1.cc/itv/",
           "description": "在线电视ipv6资源",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lu1.cc",
           "enabled": true
         },
         {
@@ -502,7 +502,7 @@
           "title": "CCTV网络电视",
           "href": "https://tv.cctv.com/live/",
           "description": "CCTV在线电视直播",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv.cctv.com",
           "enabled": true
         },
         {
@@ -510,7 +510,7 @@
           "title": "电视直播 影视点播",
           "href": "https://www.iptvindex.com/",
           "description": "分享各类直播和点播",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.iptvindex.com",
           "enabled": true
         },
         {
@@ -518,7 +518,7 @@
           "title": "电视直播源",
           "href": "https://m3u.ibert.me/",
           "description": "分享各类直播源",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=m3u.ibert.me",
           "enabled": true
         }
       ],
@@ -536,7 +536,7 @@
           "title": "小众音乐",
           "href": "https://www.aekun.com/",
           "description": "AeKun用音乐聆听彼此",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.aekun.com",
           "enabled": true
         },
         {
@@ -544,7 +544,7 @@
           "title": "网易云音乐",
           "href": "https://music.163.com/",
           "description": "网易云音乐",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.163.com",
           "enabled": true
         },
         {
@@ -552,7 +552,7 @@
           "title": "斯奥音乐",
           "href": "https://sao.fm/",
           "description": "网络收音机",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sao.fm",
           "enabled": true
         },
         {
@@ -560,7 +560,7 @@
           "title": "音乐下载器",
           "href": "http://music.vaiwan.com/",
           "description": "免费下载音乐",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.vaiwan.com",
           "enabled": true
         },
         {
@@ -568,7 +568,7 @@
           "title": "音乐下载器",
           "href": "https://www.hifiti.com/",
           "description": "需注册下载音乐",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.hifiti.com",
           "enabled": true
         }
       ],
@@ -586,7 +586,7 @@
           "title": "图片压缩",
           "href": "https://tinypng.com/cn/",
           "description": "图片无损压缩",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tinypng.com",
           "enabled": true
         },
         {
@@ -594,7 +594,7 @@
           "title": "苏打办公",
           "href": "https://bangong.360.cn/",
           "description": "360旗下办公导航",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=bangong.360.cn",
           "enabled": true
         },
         {
@@ -602,7 +602,7 @@
           "title": "帮小忙",
           "href": "https://tool.browser.qq.com/",
           "description": "QQ在线工具箱",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tool.browser.qq.com",
           "enabled": true
         },
         {
@@ -610,7 +610,7 @@
           "title": "用药助手",
           "href": "http://drugs.dxy.cn/",
           "description": "用药助手",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=drugs.dxy.cn",
           "enabled": true
         },
         {
@@ -618,7 +618,7 @@
           "title": "知识检索",
           "href": "https://www.cn-ki.net/",
           "description": "知识检索",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.cn-ki.net",
           "enabled": true
         }
       ],
@@ -636,7 +636,7 @@
           "title": "windows系统",
           "href": "https://hellowindows.cn/#",
           "description": "windows/office资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=hellowindows.cn",
           "enabled": true
         },
         {
@@ -644,7 +644,7 @@
           "title": "MSDN 我告诉你",
           "href": "https://msdn.itellyou.cn/",
           "description": "microsoft资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=msdn.itellyou.cn",
           "enabled": true
         },
         {
@@ -652,7 +652,7 @@
           "title": "WZT的Techbench",
           "href": "https://tb.rg-adguard.net/public.php?lang=zh-CN",
           "description": "在Microsoft 服务器下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tb.rg-adguard.net",
           "enabled": true
         },
         {
@@ -660,7 +660,7 @@
           "title": "微当下载",
           "href": "http://www.weidown.com/",
           "description": "免费的软件下载站",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.weidown.com",
           "enabled": true
         },
         {
@@ -668,7 +668,7 @@
           "title": "423down",
           "href": "https://www.423down.com/",
           "description": "更新快、专注去广告类软件",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.423down.com",
           "enabled": true
         },
         {
@@ -676,7 +676,7 @@
           "title": "果核剥壳",
           "href": "https://www.ghxi.com/",
           "description": "国内破解软件分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ghxi.com",
           "enabled": true
         },
         {
@@ -684,7 +684,7 @@
           "title": "风软资源站",
           "href": "https://www.ifengsoft.com/",
           "description": "破解软件分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.ifengsoft.com",
           "enabled": true
         },
         {
@@ -692,7 +692,7 @@
           "title": "分享者",
           "href": "https://www.sharerw.com/",
           "description": "精品软件,互联网资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.sharerw.com",
           "enabled": true
         },
         {
@@ -700,7 +700,7 @@
           "title": "软仓",
           "href": "https://ruancang.net/#/sim",
           "description": "精品软件下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ruancang.net",
           "enabled": true
         },
         {
@@ -708,7 +708,7 @@
           "title": "资源否",
           "href": "https://www.zyfou.com/",
           "description": "专注互联网免费资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zyfou.com",
           "enabled": true
         },
         {
@@ -716,7 +716,7 @@
           "title": "lrepacks",
           "href": "https://lrepacks.net/",
           "description": "老毛子破解站",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=lrepacks.net",
           "enabled": true
         },
         {
@@ -724,7 +724,7 @@
           "title": "俄罗斯m0nkrus",
           "href": "https://w14.monkrus.ws/",
           "description": "发布adobe破解资源",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=w14.monkrus.ws",
           "enabled": true
         },
         {
@@ -732,7 +732,7 @@
           "title": "俄罗斯KpoJIuK",
           "href": "https://repack.me/",
           "description": "老毛子破解站",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=repack.me",
           "enabled": true
         },
         {
@@ -740,7 +740,7 @@
           "title": "资源下载",
           "href": "https://www.puresys.net/",
           "description": "软件下载",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.puresys.net",
           "enabled": true
         },
         {
@@ -748,7 +748,7 @@
           "title": "分享迷",
           "href": "https://www.fenxm.com/",
           "description": "分享优质软件",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.fenxm.com",
           "enabled": true
         },
         {
@@ -756,7 +756,7 @@
           "title": "异常教程",
           "href": "https://www.exception.site/",
           "description": "JetBrains破解",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.exception.site",
           "enabled": true
         },
         {
@@ -764,7 +764,7 @@
           "title": "MAC-Office",
           "href": "https://alsyundawy.github.io/Microsoft-Office-For-MacOS/",
           "description": "office_for_mac破解",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=alsyundawy.github.io",
           "enabled": true
         },
         {
@@ -772,7 +772,7 @@
           "title": "office_for_mac",
           "href": "https://massgrave.dev/office_for_mac",
           "description": "office_for_mac破解",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=massgrave.dev",
           "enabled": true
         }
       ],
@@ -790,7 +790,7 @@
           "title": "阿里云盘",
           "href": "https://www.pan666.cn/",
           "description": "阿里云盘资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.pan666.cn",
           "enabled": true
         },
         {
@@ -798,7 +798,7 @@
           "title": "阿里云盘导航",
           "href": "https://aliyun.panpanr.com/",
           "description": "阿里云盘资源分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=aliyun.panpanr.com",
           "enabled": true
         },
         {
@@ -806,7 +806,7 @@
           "title": "易搜",
           "href": "https://yiso.fun/",
           "description": "网盘资源搜索",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=yiso.fun",
           "enabled": true
         }
       ],
@@ -824,7 +824,7 @@
           "title": "密钥分享",
           "href": "https://webact.185.hk/sharedkey.php/",
           "description": "Windows-Office密钥分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=webact.185.hk",
           "enabled": true
         },
         {
@@ -832,7 +832,7 @@
           "title": "密钥分享",
           "href": "https://pkeytools.azurewebsites.net/ShareKeys",
           "description": "Windows-Office密钥分享",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pkeytools.azurewebsites.net",
           "enabled": true
         }
       ],
@@ -850,7 +850,7 @@
           "title": "福利吧导航",
           "href": "https://fuliba123.com/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fuliba123.com",
           "enabled": true
         },
         {
@@ -858,7 +858,7 @@
           "title": "缙哥哥导航",
           "href": "https://www.dujin.org/navs",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.dujin.org",
           "enabled": true
         }
       ],
@@ -876,7 +876,7 @@
           "title": "匿名邮箱",
           "href": "https://mail.awsl.uk/",
           "description": "支持登录",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.awsl.uk",
           "enabled": true
         },
         {
@@ -884,7 +884,7 @@
           "title": "IP地址查询",
           "href": "https://ip.sy/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=ip.sy",
           "enabled": true
         },
         {
@@ -892,7 +892,7 @@
           "title": "FinalShell 激活码在线生成",
           "href": "https://finalshell.yapengz.cn/",
           "description": "",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=finalshell.yapengz.cn",
           "enabled": true
         }
       ],
@@ -910,7 +910,7 @@
           "title": "NTP时间同步服务器",
           "href": "https://chjina.com/ntp",
           "description": "ntp.chjina.com",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=chjina.com",
           "enabled": true
         },
         {
@@ -918,7 +918,7 @@
           "title": "KMS服务器",
           "href": "http://chjina.com/kms",
           "description": "kms.chjina.com",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=chjina.com",
           "enabled": true
         },
         {
@@ -926,7 +926,7 @@
           "title": "网盘分享",
           "href": "https://drive.chjina.com",
           "description": "个人文件仓库",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=drive.chjina.com",
           "enabled": true
         },
         {
@@ -934,7 +934,7 @@
           "title": "RSSHub",
           "href": "https://rsshub.chjina.com",
           "description": "万物皆可RSS",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=rsshub.chjina.com",
           "enabled": true
         },
         {
@@ -942,7 +942,7 @@
           "title": "音乐",
           "href": "https://music.chjina.com/",
           "description": "YesPlayMusic",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=music.chjina.com",
           "enabled": true
         },
         {
@@ -950,7 +950,7 @@
           "title": "GitHub代理",
           "href": "https://gh.chjina.com/",
           "description": "GitHub 文件加速",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=gh.chjina.com",
           "enabled": true
         },
         {
@@ -958,7 +958,7 @@
           "title": "Docker Hub代理",
           "href": "https://dh.chjina.com/",
           "description": "Docker Hub文件加速",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dh.chjina.com",
           "enabled": true
         },
         {
@@ -966,7 +966,7 @@
           "title": "Aria2-WebUI",
           "href": "https://an.chjina.com/",
           "description": "AriaNg",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=an.chjina.com",
           "enabled": true
         },
         {
@@ -974,7 +974,7 @@
           "title": "Wiki文档",
           "href": "https://docs.chjina.com/",
           "description": "个人知识文档库",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=docs.chjina.com",
           "enabled": true
         },
         {
@@ -982,7 +982,7 @@
           "title": "随机密码",
           "href": "https://sjmm.chjina.com/",
           "description": "随机密码生成器",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=sjmm.chjina.com",
           "enabled": true
         },
         {
@@ -990,7 +990,7 @@
           "title": "免费图床",
           "href": "https://tg-img.chjina.com/",
           "description": "Telegraph图床",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tg-img.chjina.com",
           "enabled": true
         },
         {
@@ -998,7 +998,7 @@
           "title": "在线工具箱",
           "href": "https://tools.chjina.com/",
           "description": "一个在线工具箱",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=tools.chjina.com",
           "enabled": true
         },
         {
@@ -1006,7 +1006,7 @@
           "title": "临时邮件",
           "href": "https://mail0.de5.net/",
           "description": "匿名临时邮件",
-          "icon": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail0.de5.net",
           "enabled": true
         }
       ],
