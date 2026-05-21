@@ -194,6 +194,14 @@
               "description": "资深Linux运维工程师，专注于Linux平台的系统维护以及软件应用，记录自己学习及工作中的心得经验。",
               "icon": "/assets/favicon_1779351198901.png",
               "enabled": true
+            },
+            {
+              "id": "site_1779351257800_2u38d3qa2",
+              "title": "思有云",
+              "href": "https://www.ioiox.com/\",",
+              "description": "",
+              "icon": "/assets/favicon_1779351236286.png",
+              "enabled": true
             }
           ]
         },
