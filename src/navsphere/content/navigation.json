@@ -198,6 +198,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "e3322d2f-8962-46f5-861c-ef69b830d4a5",
+          "title": "影视下载",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
