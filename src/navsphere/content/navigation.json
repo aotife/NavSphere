@@ -162,7 +162,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1779350928849_gr4zfyvgd",
+              "title": "如有乐享",
+              "href": "https://51.ruyo.net/",
+              "description": "分享是一种美德，是一种态度",
+              "icon": "/assets/favicon_1779350903745.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "aaf80dc9-ce96-4983-88aa-55ccb56763f9",
