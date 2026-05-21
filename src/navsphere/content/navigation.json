@@ -926,7 +926,7 @@
           "title": "音乐",
           "href": "https://music.chjina.com/",
           "description": "",
-          "icon": "/assets/favicon_1779353630107.ic",
+          "icon": "https://api.xinac.net/icon/?url=https://music.chjina.com/",
           "enabled": true
         },
         {
