@@ -280,14 +280,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_4_1",
-          "title": "今日热榜",
-          "href": "https://tophub.today/",
-          "description": "各类热榜",
-          "icon": "https://api.xinac.net/icon/?url=tophub.today",
-          "enabled": true
-        },
-        {
           "id": "site_4_3",
           "title": "JIKE",
           "href": "https://jike.info/",
@@ -334,6 +326,14 @@
               "href": "https://momoyu.cc/",
               "description": "摸摸鱼热榜",
               "icon": "https://api.xinac.net/icon/?url=momoyu.cc",
+              "enabled": true
+            },
+            {
+              "id": "site_4_1",
+              "title": "今日热榜",
+              "href": "https://tophub.today/",
+              "description": "各类热榜",
+              "icon": "https://api.xinac.net/icon/?url=tophub.today",
               "enabled": true
             }
           ]
