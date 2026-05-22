@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_4",
-          "title": "吾爱破解",
-          "href": "https://www.52pojie.cn/",
-          "description": "国内安全破解，病毒分析论坛",
-          "icon": "https://api.xinac.net/icon/?url=www.52pojie.cn",
-          "enabled": true
-        },
-        {
           "id": "site_3_5",
           "title": "恩山无线论坛",
           "href": "https://www.right.com.cn/forum/",
@@ -268,7 +260,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_3_4",
+              "title": "吾爱破解",
+              "href": "https://www.52pojie.cn/",
+              "description": "国内安全破解，病毒分析论坛",
+              "icon": "https://api.xinac.net/icon/?url=www.52pojie.cn",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
