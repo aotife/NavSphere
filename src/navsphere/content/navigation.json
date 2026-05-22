@@ -130,16 +130,7 @@
       "icon": "Users",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_3_15",
-          "title": "缙哥哥的博客",
-          "href": "https://www.dujin.org/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=www.dujin.org",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "57578691-8263-4c38-a1ca-546cf81c4a71",
@@ -210,6 +201,14 @@
               "href": "https://sysin.org/",
               "description": "",
               "icon": "https://api.xinac.net/icon/?url=sysin.org",
+              "enabled": true
+            },
+            {
+              "id": "site_3_15",
+              "title": "缙哥哥博客",
+              "href": "https://www.dujin.org/",
+              "description": "分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件分享、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物分享 - 原(摩尼教 - 继承火的意志)",
+              "icon": "/assets/favicon_1779413568081.jpg",
               "enabled": true
             }
           ]
