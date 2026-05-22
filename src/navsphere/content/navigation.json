@@ -252,7 +252,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "57578691-8263-4c38-a1ca-546cf81c4a71",
+          "title": "博客",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "cat_4",
