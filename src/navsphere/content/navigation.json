@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_3",
-          "title": "GXNAS 博客",
-          "href": "https://wp.gxnas.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=wp.gxnas.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_4",
           "title": "吾爱破解",
           "href": "https://www.52pojie.cn/",
@@ -258,6 +250,14 @@
               "href": "https://fuliba2023.net/",
               "description": "分享你的福利",
               "icon": "https://api.xinac.net/icon/?url=fuliba2023.net",
+              "enabled": true
+            },
+            {
+              "id": "site_3_3",
+              "title": "GXNAS 博客",
+              "href": "https://wp.gxnas.com/",
+              "description": "",
+              "icon": "https://api.xinac.net/icon/?url=wp.gxnas.com",
               "enabled": true
             }
           ]
