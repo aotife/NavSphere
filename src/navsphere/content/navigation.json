@@ -312,14 +312,6 @@
           "enabled": true
         },
         {
-          "id": "site_1779415324855_jpqqo93et",
-          "title": "摸鱼热榜 - 今日微博知乎B站抖音热搜聚合",
-          "href": "https://moyuhot.com/",
-          "description": "摸鱼热榜是你的热搜平台与摸鱼网站，实时聚合微博、知乎、B站、抖音、贴吧、GitHub、V2EX 等热搜榜，提供一站式热搜聚合与新闻聚合阅读入口。",
-          "icon": "/assets/favicon_1779415314100.svg",
-          "enabled": true
-        },
-        {
           "id": "site_1779415528631_oqlxex1ox",
           "title": "全网热点",
           "href": "https://allhot.top/",
@@ -335,7 +327,16 @@
           "icon": "Globe",
           "description": "全网聚合新闻",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1779415324855_jpqqo93et",
+              "title": "摸鱼热榜 - 今日微博知乎B站抖音热搜聚合",
+              "href": "https://moyuhot.com/",
+              "description": "摸鱼热榜是你的热搜平台与摸鱼网站，实时聚合微博、知乎、B站、抖音、贴吧、GitHub、V2EX 等热搜榜，提供一站式热搜聚合与新闻聚合阅读入口。",
+              "icon": "/assets/favicon_1779415314100.svg",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
