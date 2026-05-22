@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_5",
-          "title": "恩山无线论坛",
-          "href": "https://www.right.com.cn/forum/",
-          "description": "无线路由器爱好者的圣地",
-          "icon": "https://api.xinac.net/icon/?url=www.right.com.cn",
-          "enabled": true
-        },
-        {
           "id": "site_3_6",
           "title": "瀚思彼岸",
           "href": "https://bbs.hassbian.com/",
@@ -267,6 +259,14 @@
               "href": "https://www.52pojie.cn/",
               "description": "国内安全破解，病毒分析论坛",
               "icon": "https://api.xinac.net/icon/?url=www.52pojie.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_3_5",
+              "title": "恩山无线论坛",
+              "href": "https://www.right.com.cn/forum/",
+              "description": "无线路由器爱好者的圣地",
+              "icon": "https://api.xinac.net/icon/?url=www.right.com.cn",
               "enabled": true
             }
           ]
