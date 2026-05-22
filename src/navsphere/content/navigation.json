@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_7",
-          "title": "王哥哥",
-          "href": "https://www.azurew.com/",
-          "description": "Vmware系统集成大佬",
-          "icon": "https://api.xinac.net/icon/?url=www.azurew.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_8",
           "title": "丁辉博客",
           "href": "https://www.dinghui.org/",
