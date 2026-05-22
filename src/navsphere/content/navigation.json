@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_1",
-          "title": "如有乐享",
-          "href": "https://51.ruyo.net/",
-          "description": "分享是一种美德，是一种态度",
-          "icon": "https://api.xinac.net/icon/?url=51.ruyo.net",
-          "enabled": true
-        },
-        {
           "id": "site_3_2",
           "title": "福利吧",
           "href": "https://fuliba2023.net/",
@@ -259,7 +251,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_3_1",
+              "title": "如有乐享",
+              "href": "https://51.ruyo.net/",
+              "description": "分享是一种美德，是一种态度",
+              "icon": "https://api.xinac.net/icon/?url=51.ruyo.net",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "9910b847-3404-40f7-8220-fdc2527e1ca6",
