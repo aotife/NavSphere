@@ -54,6 +54,14 @@
           "description": "程序员集散地",
           "icon": "https://api.xinac.net/icon/?url=github.com",
           "enabled": true
+        },
+        {
+          "id": "site_1779413628384_yg8zbi83l",
+          "title": "Freebuf",
+          "href": "https://www.freebuf.com/",
+          "description": "访问 www.freebuf.com",
+          "icon": "/assets/favicon_1779413615954.png",
+          "enabled": true
         }
       ],
       "subCategories": []
