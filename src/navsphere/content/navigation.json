@@ -288,14 +288,6 @@
           "enabled": true
         },
         {
-          "id": "site_4_2",
-          "title": "摸摸鱼",
-          "href": "https://momoyu.cc/",
-          "description": "摸摸鱼热榜",
-          "icon": "https://api.xinac.net/icon/?url=momoyu.cc",
-          "enabled": true
-        },
-        {
           "id": "site_4_3",
           "title": "JIKE",
           "href": "https://jike.info/",
@@ -334,6 +326,14 @@
               "href": "https://moyuhot.com/",
               "description": "摸鱼热榜是你的热搜平台与摸鱼网站，实时聚合微博、知乎、B站、抖音、贴吧、GitHub、V2EX 等热搜榜，提供一站式热搜聚合与新闻聚合阅读入口。",
               "icon": "/assets/favicon_1779415314100.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_4_2",
+              "title": "摸摸鱼",
+              "href": "https://momoyu.cc/",
+              "description": "摸摸鱼热榜",
+              "icon": "https://api.xinac.net/icon/?url=momoyu.cc",
               "enabled": true
             }
           ]
