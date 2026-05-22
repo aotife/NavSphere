@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_9",
-          "title": "爱开源",
-          "href": "https://www.aikaiyuan.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=www.aikaiyuan.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_10",
           "title": "吴昊博客",
           "href": "https://blog.whsir.com/",
