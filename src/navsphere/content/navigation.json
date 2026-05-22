@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_12",
-          "title": "奔跑中的奶酪",
-          "href": "https://www.runningcheese.com/",
-          "description": "个人博客",
-          "icon": "https://api.xinac.net/icon/?url=www.runningcheese.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_13",
           "title": "全球主机交流论坛",
           "href": "https://hostloc.com/",
@@ -218,6 +210,14 @@
               "href": "https://www.ioiox.com/",
               "description": "个人博客",
               "icon": "https://api.xinac.net/icon/?url=www.ioiox.com",
+              "enabled": true
+            },
+            {
+              "id": "site_3_12",
+              "title": "奔跑中的奶酪",
+              "href": "https://www.runningcheese.com/",
+              "description": "个人博客",
+              "icon": "https://api.xinac.net/icon/?url=www.runningcheese.com",
               "enabled": true
             }
           ]
