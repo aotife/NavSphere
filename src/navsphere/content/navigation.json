@@ -62,6 +62,14 @@
           "description": "访问 www.freebuf.com",
           "icon": "/assets/favicon_1779413615954.png",
           "enabled": true
+        },
+        {
+          "id": "site_1779413665544_usc7n8gif",
+          "title": "安全客",
+          "href": "https://www.anquanke.com/",
+          "description": "访问 www.anquanke.com",
+          "icon": "/assets/favicon_1779413650717.png",
+          "enabled": true
         }
       ],
       "subCategories": []
