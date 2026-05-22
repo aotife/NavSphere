@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_13",
-          "title": "全球主机交流论坛",
-          "href": "https://hostloc.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=hostloc.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_14",
           "title": "SYStem INside",
           "href": "https://sysin.org/",
@@ -251,6 +243,14 @@
               "href": "https://bbs.hassbian.com/",
               "description": "智能家居论坛",
               "icon": "https://api.xinac.net/icon/?url=bbs.hassbian.com",
+              "enabled": true
+            },
+            {
+              "id": "site_3_13",
+              "title": "全球主机交流论坛",
+              "href": "https://hostloc.com/",
+              "description": "",
+              "icon": "https://api.xinac.net/icon/?url=hostloc.com",
               "enabled": true
             }
           ]
