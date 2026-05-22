@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_6",
-          "title": "瀚思彼岸",
-          "href": "https://bbs.hassbian.com/",
-          "description": "智能家居论坛",
-          "icon": "https://api.xinac.net/icon/?url=bbs.hassbian.com",
-          "enabled": true
-        },
-        {
           "id": "site_3_7",
           "title": "王哥哥",
           "href": "https://www.azurew.com/",
@@ -267,6 +259,14 @@
               "href": "https://www.right.com.cn/forum/",
               "description": "无线路由器爱好者的圣地",
               "icon": "https://api.xinac.net/icon/?url=www.right.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_3_6",
+              "title": "瀚思彼岸",
+              "href": "https://bbs.hassbian.com/",
+              "description": "智能家居论坛",
+              "icon": "https://api.xinac.net/icon/?url=bbs.hassbian.com",
               "enabled": true
             }
           ]
