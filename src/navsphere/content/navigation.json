@@ -328,7 +328,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "939cc0c3-a886-4233-8151-a0afca362e49",
+          "title": "摸鱼",
+          "icon": "Globe",
+          "description": "全网聚合新闻",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "cat_5",
