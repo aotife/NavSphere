@@ -566,14 +566,6 @@
           "enabled": true
         },
         {
-          "id": "site_7_4",
-          "title": "音乐下载器",
-          "href": "http://music.vaiwan.com/",
-          "description": "免费下载音乐",
-          "icon": "https://api.xinac.net/icon/?url=music.vaiwan.com",
-          "enabled": true
-        },
-        {
           "id": "site_7_5",
           "title": "音乐下载器",
           "href": "https://www.hifiti.com/",
