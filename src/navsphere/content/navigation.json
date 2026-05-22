@@ -132,14 +132,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_3_2",
-          "title": "福利吧",
-          "href": "https://fuliba2023.net/",
-          "description": "分享你的福利",
-          "icon": "https://api.xinac.net/icon/?url=fuliba2023.net",
-          "enabled": true
-        },
-        {
           "id": "site_3_3",
           "title": "GXNAS 博客",
           "href": "https://wp.gxnas.com/",
@@ -258,6 +250,14 @@
               "href": "https://51.ruyo.net/",
               "description": "分享是一种美德，是一种态度",
               "icon": "https://api.xinac.net/icon/?url=51.ruyo.net",
+              "enabled": true
+            },
+            {
+              "id": "site_3_2",
+              "title": "福利吧",
+              "href": "https://fuliba2023.net/",
+              "description": "分享你的福利",
+              "icon": "https://api.xinac.net/icon/?url=fuliba2023.net",
               "enabled": true
             }
           ]
