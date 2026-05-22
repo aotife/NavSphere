@@ -260,6 +260,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9910b847-3404-40f7-8220-fdc2527e1ca6",
+          "title": "论坛",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
