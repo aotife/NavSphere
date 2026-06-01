@@ -904,7 +904,7 @@
           "title": "Luomashu",
           "href": "https://www.luomashu.com/",
           "description": "访问 www.luomashu.com",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.luomashu.com",
+          "icon": "https://api.xinac.net/icon/?url=www.luomashu.com",
           "enabled": true
         }
       ],
