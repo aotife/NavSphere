@@ -898,6 +898,14 @@
           "description": "",
           "icon": "https://api.xinac.net/icon/?url=finalshell.yapengz.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1780300747065_c1vi3n181",
+          "title": "Luomashu",
+          "href": "https://www.luomashu.com/",
+          "description": "访问 www.luomashu.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.luomashu.com",
+          "enabled": true
         }
       ],
       "subCategories": []
