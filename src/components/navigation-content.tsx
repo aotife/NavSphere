@@ -231,23 +231,27 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                     {category.title}
                   </h2>
 
-                  {category.subCategories && category.subCategories.length > 0 ? (
-                    category.subCategories.map((subCategory) => (
-                      <div key={subCategory.id} id={subCategory.id} className="space-y-3">
-                        <h3 className="text-sm font-medium text-muted-foreground">
-                          {subCategory.title}
-                        </h3>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                          {(subCategory.items || []).map((item) => (
-                            <NavigationCard key={item.id} item={item} siteConfig={siteData} />
-                          ))}
-                        </div>
-                      </div>
-                    ))
-                  ) : (
-                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                      {(category.items || []).map((item) => (
+                  {category.items && category.items.length > 0 && (
+                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-6">
+                      {category.items.map((item) => (
                         <NavigationCard key={item.id} item={item} siteConfig={siteData} />
+                      ))}
+                    </div>
+                  )}
+
+                  {category.subCategories && category.subCategories.length > 0 && (
+                    <div className="space-y-6">
+                      {category.subCategories.map((subCategory) => (
+                        <div key={subCategory.id} id={subCategory.id} className="space-y-3">
+                          <h3 className="text-sm font-medium text-muted-foreground">
+                            {subCategory.title}
+                          </h3>
+                          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                            {(subCategory.items || []).map((item) => (
+                              <NavigationCard key={item.id} item={item} siteConfig={siteData} />
+                            ))}
+                          </div>
+                        </div>
                       ))}
                     </div>
                   )}
