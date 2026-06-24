@@ -603,120 +603,6 @@
       "subCategories": []
     },
     {
-      "id": "cat_14",
-      "title": "本站开通的服务",
-      "icon": "Server",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_14_1",
-          "title": "NTP时间同步服务器",
-          "href": "https://chjina.com/ntp",
-          "description": "ntp.chjina.com",
-          "icon": "https://api.xinac.net/icon/?url=chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_2",
-          "title": "KMS服务器",
-          "href": "http://chjina.com/kms",
-          "description": "kms.chjina.com",
-          "icon": "https://api.xinac.net/icon/?url=chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_3",
-          "title": "网盘分享",
-          "href": "https://drive.chjina.com",
-          "description": "",
-          "icon": "/assets/favicon_1779353566125.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_14_4",
-          "title": "RSSHub",
-          "href": "https://rsshub.chjina.com",
-          "description": "万物皆可RSS",
-          "icon": "https://api.xinac.net/icon/?url=rsshub.chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_5",
-          "title": "音乐",
-          "href": "https://music.chjina.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=https://music.chjina.com/",
-          "enabled": true
-        },
-        {
-          "id": "site_14_6",
-          "title": "GitHub 文件加速",
-          "href": "https://gh.chjina.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=gh.chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_7",
-          "title": "Docker Hub代理",
-          "href": "https://dh.chjina.com/",
-          "description": "Docker Hub文件加速",
-          "icon": "https://api.xinac.net/icon/?url=dh.chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_8",
-          "title": "AriaNg",
-          "href": "https://an.chjina.com/",
-          "description": "AriaNg, a modern web frontend making aria2 easier to use.",
-          "icon": "https://api.xinac.net/icon/?url=an.chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_9",
-          "title": "Wiki",
-          "href": "https://docs.chjina.com/",
-          "description": "",
-          "icon": "/assets/favicon_1779353544064.png",
-          "enabled": true
-        },
-        {
-          "id": "site_14_10",
-          "title": "随机用户名与密码生成器",
-          "href": "https://sjmm.chjina.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=sjmm.chjina.com",
-          "enabled": true
-        },
-        {
-          "id": "site_14_11",
-          "title": "Telegraph-Image|免费图床",
-          "href": "https://tg-img.chjina.com/",
-          "description": "免费图床，基于Telegraph的图片上传工具",
-          "icon": "/assets/favicon_1779353704659.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_14_12",
-          "title": "在线工具箱",
-          "href": "https://tools.chjina.com/",
-          "description": "",
-          "icon": "https://api.xinac.net/icon/?url=https://sjmm.chjina.com/",
-          "enabled": true
-        },
-        {
-          "id": "site_14_13",
-          "title": "匿名邮件",
-          "href": "https://mail0.de5.net/",
-          "description": "免费匿名邮件",
-          "icon": "/assets/favicon_1779353736665.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "cat_8",
       "title": "常用工具",
       "icon": "Clipboard",
@@ -1037,6 +923,120 @@
           "href": "https://youxi.pomodiary.com/",
           "description": "乡土游戏馆：复刻中国民间老游戏。大炮轰小兵、西瓜棋、老虎吃羊、三斜棋、五子棋、斗兽棋……可双人对战，也可挑战多难度 AI。",
           "icon": "/assets/favicon_1782262265419.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "cat_14",
+      "title": "本站开通的服务",
+      "icon": "Server",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_14_1",
+          "title": "NTP时间同步服务器",
+          "href": "https://chjina.com/ntp",
+          "description": "ntp.chjina.com",
+          "icon": "https://api.xinac.net/icon/?url=chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_2",
+          "title": "KMS服务器",
+          "href": "http://chjina.com/kms",
+          "description": "kms.chjina.com",
+          "icon": "https://api.xinac.net/icon/?url=chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_3",
+          "title": "网盘分享",
+          "href": "https://drive.chjina.com",
+          "description": "",
+          "icon": "/assets/favicon_1779353566125.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_14_4",
+          "title": "RSSHub",
+          "href": "https://rsshub.chjina.com",
+          "description": "万物皆可RSS",
+          "icon": "https://api.xinac.net/icon/?url=rsshub.chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_5",
+          "title": "音乐",
+          "href": "https://music.chjina.com/",
+          "description": "",
+          "icon": "https://api.xinac.net/icon/?url=https://music.chjina.com/",
+          "enabled": true
+        },
+        {
+          "id": "site_14_6",
+          "title": "GitHub 文件加速",
+          "href": "https://gh.chjina.com/",
+          "description": "",
+          "icon": "https://api.xinac.net/icon/?url=gh.chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_7",
+          "title": "Docker Hub代理",
+          "href": "https://dh.chjina.com/",
+          "description": "Docker Hub文件加速",
+          "icon": "https://api.xinac.net/icon/?url=dh.chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_8",
+          "title": "AriaNg",
+          "href": "https://an.chjina.com/",
+          "description": "AriaNg, a modern web frontend making aria2 easier to use.",
+          "icon": "https://api.xinac.net/icon/?url=an.chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_9",
+          "title": "Wiki",
+          "href": "https://docs.chjina.com/",
+          "description": "",
+          "icon": "/assets/favicon_1779353544064.png",
+          "enabled": true
+        },
+        {
+          "id": "site_14_10",
+          "title": "随机用户名与密码生成器",
+          "href": "https://sjmm.chjina.com/",
+          "description": "",
+          "icon": "https://api.xinac.net/icon/?url=sjmm.chjina.com",
+          "enabled": true
+        },
+        {
+          "id": "site_14_11",
+          "title": "Telegraph-Image|免费图床",
+          "href": "https://tg-img.chjina.com/",
+          "description": "免费图床，基于Telegraph的图片上传工具",
+          "icon": "/assets/favicon_1779353704659.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_14_12",
+          "title": "在线工具箱",
+          "href": "https://tools.chjina.com/",
+          "description": "",
+          "icon": "https://api.xinac.net/icon/?url=https://sjmm.chjina.com/",
+          "enabled": true
+        },
+        {
+          "id": "site_14_13",
+          "title": "匿名邮件",
+          "href": "https://mail0.de5.net/",
+          "description": "免费匿名邮件",
+          "icon": "/assets/favicon_1779353736665.png",
           "enabled": true
         }
       ],
