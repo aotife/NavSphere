@@ -1030,7 +1030,16 @@
       "icon": "Palette",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1782262274260_6i5lxqnc8",
+          "title": "乡土游戏馆 · 民间游戏复刻",
+          "href": "https://youxi.pomodiary.com/",
+          "description": "乡土游戏馆：复刻中国民间老游戏。大炮轰小兵、西瓜棋、老虎吃羊、三斜棋、五子棋、斗兽棋……可双人对战，也可挑战多难度 AI。",
+          "icon": "/assets/favicon_1782262265419.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
