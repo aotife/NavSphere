@@ -1023,6 +1023,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1782262248721",
+      "title": "游戏",
+      "icon": "Palette",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
