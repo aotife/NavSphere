@@ -924,6 +924,14 @@
           "description": "罗码术提供 180+ 种免费在线测试工具，涵盖反应速度、记忆力、专注力等认知基准测试，MBTI、大五人格、九型人格等权威心理测评，以及多种趣味互动实验与休闲游戏。",
           "icon": "https://api.xinac.net/icon/?url=https://www.luomashu.com/",
           "enabled": true
+        },
+        {
+          "id": "1782780397992",
+          "title": "微步情报",
+          "href": "https://x.threatbook.com/",
+          "description": "威胁分析与情报共享平台\n",
+          "icon": "/assets/favicon_1782780401324.png",
+          "enabled": true
         }
       ],
       "subCategories": []
