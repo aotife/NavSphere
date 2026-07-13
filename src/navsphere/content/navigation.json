@@ -666,6 +666,14 @@
           "description": "知识检索",
           "icon": "https://api.xinac.net/icon/?url=www.cn-ki.net",
           "enabled": true
+        },
+        {
+          "id": "site_1783904747027_tvwliw703",
+          "title": "SearchSharp · 咸鱼黑话-搜全它的所有叫法",
+          "href": "https://search-sharp.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=search-sharp.com",
+          "enabled": true
         }
       ],
       "subCategories": []
