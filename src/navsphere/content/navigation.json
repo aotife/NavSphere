@@ -410,6 +410,14 @@
           "description": "国外",
           "icon": "https://api.xinac.net/icon/?url=sharedchat.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1784098278535_niqx7w80i",
+          "title": "Xiaomi MiMo Studio",
+          "href": "https://aistudio.xiaomimimo.com/",
+          "description": "小米AI",
+          "icon": "/assets/favicon_1784098261809.png",
+          "enabled": true
         }
       ],
       "subCategories": []
