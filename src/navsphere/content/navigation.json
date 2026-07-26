@@ -1065,6 +1065,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1785075913890",
+      "title": "3D打印",
+      "icon": "FileText",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
