@@ -864,7 +864,16 @@
       "icon": "FileText",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1785076424025_onq1zpwlu",
+          "title": "Makerworld",
+          "href": "https://makerworld.com.cn/zh",
+          "description": "拓竹的3D模型",
+          "icon": "/assets/favicon_1785076361901.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
